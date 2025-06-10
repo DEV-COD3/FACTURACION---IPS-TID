@@ -1,11 +1,11 @@
-(['C:\\Users\\Gerencia Ti\\Desktop\\Fetch_notas_py\\app.py'],
- ['C:\\Users\\Gerencia Ti\\Desktop\\Fetch_notas_py'],
+(['D:\\PROYECTS\\PYTHON\\CONTROLADOR ESTADO FACTURACION\\app.py'],
+ ['D:\\PROYECTS\\PYTHON\\CONTROLADOR ESTADO FACTURACION'],
  [],
- [('C:\\Users\\Gerencia '
-   'Ti\\Desktop\\Fetch_notas_py\\venv\\Lib\\site-packages\\_pyinstaller_hooks_contrib\\stdhooks',
+ [('D:\\PROYECTS\\PYTHON\\CONTROLADOR ESTADO '
+   'FACTURACION\\venv\\Lib\\site-packages\\_pyinstaller_hooks_contrib\\stdhooks',
    -1000),
-  ('C:\\Users\\Gerencia '
-   'Ti\\Desktop\\Fetch_notas_py\\venv\\Lib\\site-packages\\_pyinstaller_hooks_contrib',
+  ('D:\\PROYECTS\\PYTHON\\CONTROLADOR ESTADO '
+   'FACTURACION\\venv\\Lib\\site-packages\\_pyinstaller_hooks_contrib',
    -1000)],
  {},
  [],
@@ -18,19 +18,19 @@
  '3.12.10 (tags/v3.12.10:0cc8128, Apr  8 2025, 12:21:36) [MSC v.1943 64 bit '
  '(AMD64)]',
  [('pyi_rth_inspect',
-   'C:\\Users\\Gerencia '
-   'Ti\\Desktop\\Fetch_notas_py\\venv\\Lib\\site-packages\\PyInstaller\\hooks\\rthooks\\pyi_rth_inspect.py',
+   'D:\\PROYECTS\\PYTHON\\CONTROLADOR ESTADO '
+   'FACTURACION\\venv\\Lib\\site-packages\\PyInstaller\\hooks\\rthooks\\pyi_rth_inspect.py',
    'PYSOURCE'),
   ('pyi_rth_pkgutil',
-   'C:\\Users\\Gerencia '
-   'Ti\\Desktop\\Fetch_notas_py\\venv\\Lib\\site-packages\\PyInstaller\\hooks\\rthooks\\pyi_rth_pkgutil.py',
+   'D:\\PROYECTS\\PYTHON\\CONTROLADOR ESTADO '
+   'FACTURACION\\venv\\Lib\\site-packages\\PyInstaller\\hooks\\rthooks\\pyi_rth_pkgutil.py',
    'PYSOURCE'),
   ('pyi_rth_multiprocessing',
-   'C:\\Users\\Gerencia '
-   'Ti\\Desktop\\Fetch_notas_py\\venv\\Lib\\site-packages\\PyInstaller\\hooks\\rthooks\\pyi_rth_multiprocessing.py',
+   'D:\\PROYECTS\\PYTHON\\CONTROLADOR ESTADO '
+   'FACTURACION\\venv\\Lib\\site-packages\\PyInstaller\\hooks\\rthooks\\pyi_rth_multiprocessing.py',
    'PYSOURCE'),
   ('app',
-   'C:\\Users\\Gerencia Ti\\Desktop\\Fetch_notas_py\\app.py',
+   'D:\\PROYECTS\\PYTHON\\CONTROLADOR ESTADO FACTURACION\\app.py',
    'PYSOURCE')],
  [('subprocess',
    'C:\\Program '
@@ -652,13 +652,13 @@
    'C:\\Program '
    'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.12_3.12.2800.0_x64__qbz5n2kfra8p0\\Lib\\tracemalloc.py',
    'PYMODULE'),
-  ('stringprep',
-   'C:\\Program '
-   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.12_3.12.2800.0_x64__qbz5n2kfra8p0\\Lib\\stringprep.py',
-   'PYMODULE'),
   ('_py_abc',
    'C:\\Program '
    'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.12_3.12.2800.0_x64__qbz5n2kfra8p0\\Lib\\_py_abc.py',
+   'PYMODULE'),
+  ('stringprep',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.12_3.12.2800.0_x64__qbz5n2kfra8p0\\Lib\\stringprep.py',
    'PYMODULE'),
   ('concurrent.futures',
    'C:\\Program '
@@ -681,68 +681,68 @@
    'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.12_3.12.2800.0_x64__qbz5n2kfra8p0\\Lib\\concurrent\\__init__.py',
    'PYMODULE'),
   ('flet',
-   'C:\\Users\\Gerencia '
-   'Ti\\Desktop\\Fetch_notas_py\\venv\\Lib\\site-packages\\flet\\__init__.py',
+   'D:\\PROYECTS\\PYTHON\\CONTROLADOR ESTADO '
+   'FACTURACION\\venv\\Lib\\site-packages\\flet\\__init__.py',
    'PYMODULE'),
   ('flet.core.window_drag_area',
-   'C:\\Users\\Gerencia '
-   'Ti\\Desktop\\Fetch_notas_py\\venv\\Lib\\site-packages\\flet\\core\\window_drag_area.py',
+   'D:\\PROYECTS\\PYTHON\\CONTROLADOR ESTADO '
+   'FACTURACION\\venv\\Lib\\site-packages\\flet\\core\\window_drag_area.py',
    'PYMODULE'),
   ('flet.core.webview',
-   'C:\\Users\\Gerencia '
-   'Ti\\Desktop\\Fetch_notas_py\\venv\\Lib\\site-packages\\flet\\core\\webview.py',
+   'D:\\PROYECTS\\PYTHON\\CONTROLADOR ESTADO '
+   'FACTURACION\\venv\\Lib\\site-packages\\flet\\core\\webview.py',
    'PYMODULE'),
   ('flet.utils.deprecated',
-   'C:\\Users\\Gerencia '
-   'Ti\\Desktop\\Fetch_notas_py\\venv\\Lib\\site-packages\\flet\\utils\\deprecated.py',
+   'D:\\PROYECTS\\PYTHON\\CONTROLADOR ESTADO '
+   'FACTURACION\\venv\\Lib\\site-packages\\flet\\utils\\deprecated.py',
    'PYMODULE'),
   ('flet.utils',
-   'C:\\Users\\Gerencia '
-   'Ti\\Desktop\\Fetch_notas_py\\venv\\Lib\\site-packages\\flet\\utils\\__init__.py',
+   'D:\\PROYECTS\\PYTHON\\CONTROLADOR ESTADO '
+   'FACTURACION\\venv\\Lib\\site-packages\\flet\\utils\\__init__.py',
    'PYMODULE'),
   ('flet.utils.vector',
-   'C:\\Users\\Gerencia '
-   'Ti\\Desktop\\Fetch_notas_py\\venv\\Lib\\site-packages\\flet\\utils\\vector.py',
+   'D:\\PROYECTS\\PYTHON\\CONTROLADOR ESTADO '
+   'FACTURACION\\venv\\Lib\\site-packages\\flet\\utils\\vector.py',
    'PYMODULE'),
   ('flet.utils.strings',
-   'C:\\Users\\Gerencia '
-   'Ti\\Desktop\\Fetch_notas_py\\venv\\Lib\\site-packages\\flet\\utils\\strings.py',
+   'D:\\PROYECTS\\PYTHON\\CONTROLADOR ESTADO '
+   'FACTURACION\\venv\\Lib\\site-packages\\flet\\utils\\strings.py',
    'PYMODULE'),
   ('flet.utils.slugify',
-   'C:\\Users\\Gerencia '
-   'Ti\\Desktop\\Fetch_notas_py\\venv\\Lib\\site-packages\\flet\\utils\\slugify.py',
+   'D:\\PROYECTS\\PYTHON\\CONTROLADOR ESTADO '
+   'FACTURACION\\venv\\Lib\\site-packages\\flet\\utils\\slugify.py',
    'PYMODULE'),
   ('flet.utils.platform_utils',
-   'C:\\Users\\Gerencia '
-   'Ti\\Desktop\\Fetch_notas_py\\venv\\Lib\\site-packages\\flet\\utils\\platform_utils.py',
+   'D:\\PROYECTS\\PYTHON\\CONTROLADOR ESTADO '
+   'FACTURACION\\venv\\Lib\\site-packages\\flet\\utils\\platform_utils.py',
    'PYMODULE'),
   ('platform',
    'C:\\Program '
    'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.12_3.12.2800.0_x64__qbz5n2kfra8p0\\Lib\\platform.py',
    'PYMODULE'),
   ('flet.utils.once',
-   'C:\\Users\\Gerencia '
-   'Ti\\Desktop\\Fetch_notas_py\\venv\\Lib\\site-packages\\flet\\utils\\once.py',
+   'D:\\PROYECTS\\PYTHON\\CONTROLADOR ESTADO '
+   'FACTURACION\\venv\\Lib\\site-packages\\flet\\utils\\once.py',
    'PYMODULE'),
   ('flet.utils.network',
-   'C:\\Users\\Gerencia '
-   'Ti\\Desktop\\Fetch_notas_py\\venv\\Lib\\site-packages\\flet\\utils\\network.py',
+   'D:\\PROYECTS\\PYTHON\\CONTROLADOR ESTADO '
+   'FACTURACION\\venv\\Lib\\site-packages\\flet\\utils\\network.py',
    'PYMODULE'),
   ('flet.utils.hashing',
-   'C:\\Users\\Gerencia '
-   'Ti\\Desktop\\Fetch_notas_py\\venv\\Lib\\site-packages\\flet\\utils\\hashing.py',
+   'D:\\PROYECTS\\PYTHON\\CONTROLADOR ESTADO '
+   'FACTURACION\\venv\\Lib\\site-packages\\flet\\utils\\hashing.py',
    'PYMODULE'),
   ('flet.utils.files',
-   'C:\\Users\\Gerencia '
-   'Ti\\Desktop\\Fetch_notas_py\\venv\\Lib\\site-packages\\flet\\utils\\files.py',
+   'D:\\PROYECTS\\PYTHON\\CONTROLADOR ESTADO '
+   'FACTURACION\\venv\\Lib\\site-packages\\flet\\utils\\files.py',
    'PYMODULE'),
   ('flet.utils.classproperty',
-   'C:\\Users\\Gerencia '
-   'Ti\\Desktop\\Fetch_notas_py\\venv\\Lib\\site-packages\\flet\\utils\\classproperty.py',
+   'D:\\PROYECTS\\PYTHON\\CONTROLADOR ESTADO '
+   'FACTURACION\\venv\\Lib\\site-packages\\flet\\utils\\classproperty.py',
    'PYMODULE'),
   ('flet.utils.browser',
-   'C:\\Users\\Gerencia '
-   'Ti\\Desktop\\Fetch_notas_py\\venv\\Lib\\site-packages\\flet\\utils\\browser.py',
+   'D:\\PROYECTS\\PYTHON\\CONTROLADOR ESTADO '
+   'FACTURACION\\venv\\Lib\\site-packages\\flet\\utils\\browser.py',
    'PYMODULE'),
   ('webbrowser',
    'C:\\Program '
@@ -753,12 +753,12 @@
    'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.12_3.12.2800.0_x64__qbz5n2kfra8p0\\Lib\\shlex.py',
    'PYMODULE'),
   ('flet.core.event_handler',
-   'C:\\Users\\Gerencia '
-   'Ti\\Desktop\\Fetch_notas_py\\venv\\Lib\\site-packages\\flet\\core\\event_handler.py',
+   'D:\\PROYECTS\\PYTHON\\CONTROLADOR ESTADO '
+   'FACTURACION\\venv\\Lib\\site-packages\\flet\\core\\event_handler.py',
    'PYMODULE'),
   ('flet.core.constrained_control',
-   'C:\\Users\\Gerencia '
-   'Ti\\Desktop\\Fetch_notas_py\\venv\\Lib\\site-packages\\flet\\core\\constrained_control.py',
+   'D:\\PROYECTS\\PYTHON\\CONTROLADOR ESTADO '
+   'FACTURACION\\venv\\Lib\\site-packages\\flet\\core\\constrained_control.py',
    'PYMODULE'),
   ('json',
    'C:\\Program '
@@ -777,509 +777,509 @@
    'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.12_3.12.2800.0_x64__qbz5n2kfra8p0\\Lib\\json\\scanner.py',
    'PYMODULE'),
   ('flet.core.view',
-   'C:\\Users\\Gerencia '
-   'Ti\\Desktop\\Fetch_notas_py\\venv\\Lib\\site-packages\\flet\\core\\view.py',
+   'D:\\PROYECTS\\PYTHON\\CONTROLADOR ESTADO '
+   'FACTURACION\\venv\\Lib\\site-packages\\flet\\core\\view.py',
    'PYMODULE'),
   ('flet.core.video',
-   'C:\\Users\\Gerencia '
-   'Ti\\Desktop\\Fetch_notas_py\\venv\\Lib\\site-packages\\flet\\core\\video.py',
+   'D:\\PROYECTS\\PYTHON\\CONTROLADOR ESTADO '
+   'FACTURACION\\venv\\Lib\\site-packages\\flet\\core\\video.py',
    'PYMODULE'),
   ('flet.core.vertical_divider',
-   'C:\\Users\\Gerencia '
-   'Ti\\Desktop\\Fetch_notas_py\\venv\\Lib\\site-packages\\flet\\core\\vertical_divider.py',
+   'D:\\PROYECTS\\PYTHON\\CONTROLADOR ESTADO '
+   'FACTURACION\\venv\\Lib\\site-packages\\flet\\core\\vertical_divider.py',
    'PYMODULE'),
   ('flet.core.types',
-   'C:\\Users\\Gerencia '
-   'Ti\\Desktop\\Fetch_notas_py\\venv\\Lib\\site-packages\\flet\\core\\types.py',
+   'D:\\PROYECTS\\PYTHON\\CONTROLADOR ESTADO '
+   'FACTURACION\\venv\\Lib\\site-packages\\flet\\core\\types.py',
    'PYMODULE'),
   ('flet.core.event',
-   'C:\\Users\\Gerencia '
-   'Ti\\Desktop\\Fetch_notas_py\\venv\\Lib\\site-packages\\flet\\core\\event.py',
+   'D:\\PROYECTS\\PYTHON\\CONTROLADOR ESTADO '
+   'FACTURACION\\venv\\Lib\\site-packages\\flet\\core\\event.py',
    'PYMODULE'),
   ('flet.core.transparent_pointer',
-   'C:\\Users\\Gerencia '
-   'Ti\\Desktop\\Fetch_notas_py\\venv\\Lib\\site-packages\\flet\\core\\transparent_pointer.py',
+   'D:\\PROYECTS\\PYTHON\\CONTROLADOR ESTADO '
+   'FACTURACION\\venv\\Lib\\site-packages\\flet\\core\\transparent_pointer.py',
    'PYMODULE'),
   ('flet.core.transform',
-   'C:\\Users\\Gerencia '
-   'Ti\\Desktop\\Fetch_notas_py\\venv\\Lib\\site-packages\\flet\\core\\transform.py',
+   'D:\\PROYECTS\\PYTHON\\CONTROLADOR ESTADO '
+   'FACTURACION\\venv\\Lib\\site-packages\\flet\\core\\transform.py',
    'PYMODULE'),
   ('flet.core.tooltip',
-   'C:\\Users\\Gerencia '
-   'Ti\\Desktop\\Fetch_notas_py\\venv\\Lib\\site-packages\\flet\\core\\tooltip.py',
+   'D:\\PROYECTS\\PYTHON\\CONTROLADOR ESTADO '
+   'FACTURACION\\venv\\Lib\\site-packages\\flet\\core\\tooltip.py',
    'PYMODULE'),
   ('flet.core.time_picker',
-   'C:\\Users\\Gerencia '
-   'Ti\\Desktop\\Fetch_notas_py\\venv\\Lib\\site-packages\\flet\\core\\time_picker.py',
+   'D:\\PROYECTS\\PYTHON\\CONTROLADOR ESTADO '
+   'FACTURACION\\venv\\Lib\\site-packages\\flet\\core\\time_picker.py',
    'PYMODULE'),
   ('flet.core.theme',
-   'C:\\Users\\Gerencia '
-   'Ti\\Desktop\\Fetch_notas_py\\venv\\Lib\\site-packages\\flet\\core\\theme.py',
+   'D:\\PROYECTS\\PYTHON\\CONTROLADOR ESTADO '
+   'FACTURACION\\venv\\Lib\\site-packages\\flet\\core\\theme.py',
    'PYMODULE'),
   ('typing_extensions',
-   'C:\\Users\\Gerencia '
-   'Ti\\Desktop\\Fetch_notas_py\\venv\\Lib\\site-packages\\typing_extensions.py',
+   'D:\\PROYECTS\\PYTHON\\CONTROLADOR ESTADO '
+   'FACTURACION\\venv\\Lib\\site-packages\\typing_extensions.py',
    'PYMODULE'),
   ('asyncio.coroutines',
    'C:\\Program '
    'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.12_3.12.2800.0_x64__qbz5n2kfra8p0\\Lib\\asyncio\\coroutines.py',
    'PYMODULE'),
   ('flet.core.textfield',
-   'C:\\Users\\Gerencia '
-   'Ti\\Desktop\\Fetch_notas_py\\venv\\Lib\\site-packages\\flet\\core\\textfield.py',
+   'D:\\PROYECTS\\PYTHON\\CONTROLADOR ESTADO '
+   'FACTURACION\\venv\\Lib\\site-packages\\flet\\core\\textfield.py',
    'PYMODULE'),
   ('flet.core.text_style',
-   'C:\\Users\\Gerencia '
-   'Ti\\Desktop\\Fetch_notas_py\\venv\\Lib\\site-packages\\flet\\core\\text_style.py',
+   'D:\\PROYECTS\\PYTHON\\CONTROLADOR ESTADO '
+   'FACTURACION\\venv\\Lib\\site-packages\\flet\\core\\text_style.py',
    'PYMODULE'),
   ('flet.core.text_span',
-   'C:\\Users\\Gerencia '
-   'Ti\\Desktop\\Fetch_notas_py\\venv\\Lib\\site-packages\\flet\\core\\text_span.py',
+   'D:\\PROYECTS\\PYTHON\\CONTROLADOR ESTADO '
+   'FACTURACION\\venv\\Lib\\site-packages\\flet\\core\\text_span.py',
    'PYMODULE'),
   ('flet.core.inline_span',
-   'C:\\Users\\Gerencia '
-   'Ti\\Desktop\\Fetch_notas_py\\venv\\Lib\\site-packages\\flet\\core\\inline_span.py',
+   'D:\\PROYECTS\\PYTHON\\CONTROLADOR ESTADO '
+   'FACTURACION\\venv\\Lib\\site-packages\\flet\\core\\inline_span.py',
    'PYMODULE'),
   ('flet.core.text_button',
-   'C:\\Users\\Gerencia '
-   'Ti\\Desktop\\Fetch_notas_py\\venv\\Lib\\site-packages\\flet\\core\\text_button.py',
+   'D:\\PROYECTS\\PYTHON\\CONTROLADOR ESTADO '
+   'FACTURACION\\venv\\Lib\\site-packages\\flet\\core\\text_button.py',
    'PYMODULE'),
   ('flet.core.text',
-   'C:\\Users\\Gerencia '
-   'Ti\\Desktop\\Fetch_notas_py\\venv\\Lib\\site-packages\\flet\\core\\text.py',
+   'D:\\PROYECTS\\PYTHON\\CONTROLADOR ESTADO '
+   'FACTURACION\\venv\\Lib\\site-packages\\flet\\core\\text.py',
    'PYMODULE'),
   ('flet.core.template_route',
-   'C:\\Users\\Gerencia '
-   'Ti\\Desktop\\Fetch_notas_py\\venv\\Lib\\site-packages\\flet\\core\\template_route.py',
+   'D:\\PROYECTS\\PYTHON\\CONTROLADOR ESTADO '
+   'FACTURACION\\venv\\Lib\\site-packages\\flet\\core\\template_route.py',
    'PYMODULE'),
   ('repath',
-   'C:\\Users\\Gerencia '
-   'Ti\\Desktop\\Fetch_notas_py\\venv\\Lib\\site-packages\\repath.py',
+   'D:\\PROYECTS\\PYTHON\\CONTROLADOR ESTADO '
+   'FACTURACION\\venv\\Lib\\site-packages\\repath.py',
    'PYMODULE'),
   ('six',
-   'C:\\Users\\Gerencia '
-   'Ti\\Desktop\\Fetch_notas_py\\venv\\Lib\\site-packages\\six.py',
+   'D:\\PROYECTS\\PYTHON\\CONTROLADOR ESTADO '
+   'FACTURACION\\venv\\Lib\\site-packages\\six.py',
    'PYMODULE'),
   ('__future__',
    'C:\\Program '
    'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.12_3.12.2800.0_x64__qbz5n2kfra8p0\\Lib\\__future__.py',
    'PYMODULE'),
   ('flet.core.tabs',
-   'C:\\Users\\Gerencia '
-   'Ti\\Desktop\\Fetch_notas_py\\venv\\Lib\\site-packages\\flet\\core\\tabs.py',
+   'D:\\PROYECTS\\PYTHON\\CONTROLADOR ESTADO '
+   'FACTURACION\\venv\\Lib\\site-packages\\flet\\core\\tabs.py',
    'PYMODULE'),
   ('flet.core.switch',
-   'C:\\Users\\Gerencia '
-   'Ti\\Desktop\\Fetch_notas_py\\venv\\Lib\\site-packages\\flet\\core\\switch.py',
+   'D:\\PROYECTS\\PYTHON\\CONTROLADOR ESTADO '
+   'FACTURACION\\venv\\Lib\\site-packages\\flet\\core\\switch.py',
    'PYMODULE'),
   ('flet.core.submenu_button',
-   'C:\\Users\\Gerencia '
-   'Ti\\Desktop\\Fetch_notas_py\\venv\\Lib\\site-packages\\flet\\core\\submenu_button.py',
+   'D:\\PROYECTS\\PYTHON\\CONTROLADOR ESTADO '
+   'FACTURACION\\venv\\Lib\\site-packages\\flet\\core\\submenu_button.py',
    'PYMODULE'),
   ('flet.core.stack',
-   'C:\\Users\\Gerencia '
-   'Ti\\Desktop\\Fetch_notas_py\\venv\\Lib\\site-packages\\flet\\core\\stack.py',
+   'D:\\PROYECTS\\PYTHON\\CONTROLADOR ESTADO '
+   'FACTURACION\\venv\\Lib\\site-packages\\flet\\core\\stack.py',
    'PYMODULE'),
   ('flet.core.snack_bar',
-   'C:\\Users\\Gerencia '
-   'Ti\\Desktop\\Fetch_notas_py\\venv\\Lib\\site-packages\\flet\\core\\snack_bar.py',
+   'D:\\PROYECTS\\PYTHON\\CONTROLADOR ESTADO '
+   'FACTURACION\\venv\\Lib\\site-packages\\flet\\core\\snack_bar.py',
    'PYMODULE'),
   ('flet.core.slider',
-   'C:\\Users\\Gerencia '
-   'Ti\\Desktop\\Fetch_notas_py\\venv\\Lib\\site-packages\\flet\\core\\slider.py',
+   'D:\\PROYECTS\\PYTHON\\CONTROLADOR ESTADO '
+   'FACTURACION\\venv\\Lib\\site-packages\\flet\\core\\slider.py',
    'PYMODULE'),
   ('flet.core.shake_detector',
-   'C:\\Users\\Gerencia '
-   'Ti\\Desktop\\Fetch_notas_py\\venv\\Lib\\site-packages\\flet\\core\\shake_detector.py',
+   'D:\\PROYECTS\\PYTHON\\CONTROLADOR ESTADO '
+   'FACTURACION\\venv\\Lib\\site-packages\\flet\\core\\shake_detector.py',
    'PYMODULE'),
   ('flet.core.shader_mask',
-   'C:\\Users\\Gerencia '
-   'Ti\\Desktop\\Fetch_notas_py\\venv\\Lib\\site-packages\\flet\\core\\shader_mask.py',
+   'D:\\PROYECTS\\PYTHON\\CONTROLADOR ESTADO '
+   'FACTURACION\\venv\\Lib\\site-packages\\flet\\core\\shader_mask.py',
    'PYMODULE'),
   ('flet.core.semantics_service',
-   'C:\\Users\\Gerencia '
-   'Ti\\Desktop\\Fetch_notas_py\\venv\\Lib\\site-packages\\flet\\core\\semantics_service.py',
+   'D:\\PROYECTS\\PYTHON\\CONTROLADOR ESTADO '
+   'FACTURACION\\venv\\Lib\\site-packages\\flet\\core\\semantics_service.py',
    'PYMODULE'),
   ('flet.core.semantics',
-   'C:\\Users\\Gerencia '
-   'Ti\\Desktop\\Fetch_notas_py\\venv\\Lib\\site-packages\\flet\\core\\semantics.py',
+   'D:\\PROYECTS\\PYTHON\\CONTROLADOR ESTADO '
+   'FACTURACION\\venv\\Lib\\site-packages\\flet\\core\\semantics.py',
    'PYMODULE'),
   ('flet.core.selection_area',
-   'C:\\Users\\Gerencia '
-   'Ti\\Desktop\\Fetch_notas_py\\venv\\Lib\\site-packages\\flet\\core\\selection_area.py',
+   'D:\\PROYECTS\\PYTHON\\CONTROLADOR ESTADO '
+   'FACTURACION\\venv\\Lib\\site-packages\\flet\\core\\selection_area.py',
    'PYMODULE'),
   ('flet.core.segmented_button',
-   'C:\\Users\\Gerencia '
-   'Ti\\Desktop\\Fetch_notas_py\\venv\\Lib\\site-packages\\flet\\core\\segmented_button.py',
+   'D:\\PROYECTS\\PYTHON\\CONTROLADOR ESTADO '
+   'FACTURACION\\venv\\Lib\\site-packages\\flet\\core\\segmented_button.py',
    'PYMODULE'),
   ('flet.core.search_bar',
-   'C:\\Users\\Gerencia '
-   'Ti\\Desktop\\Fetch_notas_py\\venv\\Lib\\site-packages\\flet\\core\\search_bar.py',
+   'D:\\PROYECTS\\PYTHON\\CONTROLADOR ESTADO '
+   'FACTURACION\\venv\\Lib\\site-packages\\flet\\core\\search_bar.py',
    'PYMODULE'),
   ('flet.core.scrollable_control',
-   'C:\\Users\\Gerencia '
-   'Ti\\Desktop\\Fetch_notas_py\\venv\\Lib\\site-packages\\flet\\core\\scrollable_control.py',
+   'D:\\PROYECTS\\PYTHON\\CONTROLADOR ESTADO '
+   'FACTURACION\\venv\\Lib\\site-packages\\flet\\core\\scrollable_control.py',
    'PYMODULE'),
   ('flet.core.safe_area',
-   'C:\\Users\\Gerencia '
-   'Ti\\Desktop\\Fetch_notas_py\\venv\\Lib\\site-packages\\flet\\core\\safe_area.py',
+   'D:\\PROYECTS\\PYTHON\\CONTROLADOR ESTADO '
+   'FACTURACION\\venv\\Lib\\site-packages\\flet\\core\\safe_area.py',
    'PYMODULE'),
   ('flet.core.row',
-   'C:\\Users\\Gerencia '
-   'Ti\\Desktop\\Fetch_notas_py\\venv\\Lib\\site-packages\\flet\\core\\row.py',
+   'D:\\PROYECTS\\PYTHON\\CONTROLADOR ESTADO '
+   'FACTURACION\\venv\\Lib\\site-packages\\flet\\core\\row.py',
    'PYMODULE'),
   ('flet.core.rive',
-   'C:\\Users\\Gerencia '
-   'Ti\\Desktop\\Fetch_notas_py\\venv\\Lib\\site-packages\\flet\\core\\rive.py',
+   'D:\\PROYECTS\\PYTHON\\CONTROLADOR ESTADO '
+   'FACTURACION\\venv\\Lib\\site-packages\\flet\\core\\rive.py',
    'PYMODULE'),
   ('flet.core.responsive_row',
-   'C:\\Users\\Gerencia '
-   'Ti\\Desktop\\Fetch_notas_py\\venv\\Lib\\site-packages\\flet\\core\\responsive_row.py',
+   'D:\\PROYECTS\\PYTHON\\CONTROLADOR ESTADO '
+   'FACTURACION\\venv\\Lib\\site-packages\\flet\\core\\responsive_row.py',
    'PYMODULE'),
   ('flet.core.reorderable_list_view',
-   'C:\\Users\\Gerencia '
-   'Ti\\Desktop\\Fetch_notas_py\\venv\\Lib\\site-packages\\flet\\core\\reorderable_list_view.py',
+   'D:\\PROYECTS\\PYTHON\\CONTROLADOR ESTADO '
+   'FACTURACION\\venv\\Lib\\site-packages\\flet\\core\\reorderable_list_view.py',
    'PYMODULE'),
   ('flet.core.reorderable_draggable',
-   'C:\\Users\\Gerencia '
-   'Ti\\Desktop\\Fetch_notas_py\\venv\\Lib\\site-packages\\flet\\core\\reorderable_draggable.py',
+   'D:\\PROYECTS\\PYTHON\\CONTROLADOR ESTADO '
+   'FACTURACION\\venv\\Lib\\site-packages\\flet\\core\\reorderable_draggable.py',
    'PYMODULE'),
   ('flet.core.ref',
-   'C:\\Users\\Gerencia '
-   'Ti\\Desktop\\Fetch_notas_py\\venv\\Lib\\site-packages\\flet\\core\\ref.py',
+   'D:\\PROYECTS\\PYTHON\\CONTROLADOR ESTADO '
+   'FACTURACION\\venv\\Lib\\site-packages\\flet\\core\\ref.py',
    'PYMODULE'),
   ('flet.core.range_slider',
-   'C:\\Users\\Gerencia '
-   'Ti\\Desktop\\Fetch_notas_py\\venv\\Lib\\site-packages\\flet\\core\\range_slider.py',
+   'D:\\PROYECTS\\PYTHON\\CONTROLADOR ESTADO '
+   'FACTURACION\\venv\\Lib\\site-packages\\flet\\core\\range_slider.py',
    'PYMODULE'),
   ('flet.core.radio_group',
-   'C:\\Users\\Gerencia '
-   'Ti\\Desktop\\Fetch_notas_py\\venv\\Lib\\site-packages\\flet\\core\\radio_group.py',
+   'D:\\PROYECTS\\PYTHON\\CONTROLADOR ESTADO '
+   'FACTURACION\\venv\\Lib\\site-packages\\flet\\core\\radio_group.py',
    'PYMODULE'),
   ('flet.core.radio',
-   'C:\\Users\\Gerencia '
-   'Ti\\Desktop\\Fetch_notas_py\\venv\\Lib\\site-packages\\flet\\core\\radio.py',
+   'D:\\PROYECTS\\PYTHON\\CONTROLADOR ESTADO '
+   'FACTURACION\\venv\\Lib\\site-packages\\flet\\core\\radio.py',
    'PYMODULE'),
   ('flet.core.querystring',
-   'C:\\Users\\Gerencia '
-   'Ti\\Desktop\\Fetch_notas_py\\venv\\Lib\\site-packages\\flet\\core\\querystring.py',
+   'D:\\PROYECTS\\PYTHON\\CONTROLADOR ESTADO '
+   'FACTURACION\\venv\\Lib\\site-packages\\flet\\core\\querystring.py',
    'PYMODULE'),
   ('flet.core.pubsub.pubsub_hub',
-   'C:\\Users\\Gerencia '
-   'Ti\\Desktop\\Fetch_notas_py\\venv\\Lib\\site-packages\\flet\\core\\pubsub\\pubsub_hub.py',
+   'D:\\PROYECTS\\PYTHON\\CONTROLADOR ESTADO '
+   'FACTURACION\\venv\\Lib\\site-packages\\flet\\core\\pubsub\\pubsub_hub.py',
    'PYMODULE'),
   ('flet.core.pubsub', '-', 'PYMODULE'),
   ('flet.core.locks',
-   'C:\\Users\\Gerencia '
-   'Ti\\Desktop\\Fetch_notas_py\\venv\\Lib\\site-packages\\flet\\core\\locks.py',
+   'D:\\PROYECTS\\PYTHON\\CONTROLADOR ESTADO '
+   'FACTURACION\\venv\\Lib\\site-packages\\flet\\core\\locks.py',
    'PYMODULE'),
   ('flet.core.pubsub.pubsub_client',
-   'C:\\Users\\Gerencia '
-   'Ti\\Desktop\\Fetch_notas_py\\venv\\Lib\\site-packages\\flet\\core\\pubsub\\pubsub_client.py',
+   'D:\\PROYECTS\\PYTHON\\CONTROLADOR ESTADO '
+   'FACTURACION\\venv\\Lib\\site-packages\\flet\\core\\pubsub\\pubsub_client.py',
    'PYMODULE'),
   ('flet.core.progress_ring',
-   'C:\\Users\\Gerencia '
-   'Ti\\Desktop\\Fetch_notas_py\\venv\\Lib\\site-packages\\flet\\core\\progress_ring.py',
+   'D:\\PROYECTS\\PYTHON\\CONTROLADOR ESTADO '
+   'FACTURACION\\venv\\Lib\\site-packages\\flet\\core\\progress_ring.py',
    'PYMODULE'),
   ('flet.core.progress_bar',
-   'C:\\Users\\Gerencia '
-   'Ti\\Desktop\\Fetch_notas_py\\venv\\Lib\\site-packages\\flet\\core\\progress_bar.py',
+   'D:\\PROYECTS\\PYTHON\\CONTROLADOR ESTADO '
+   'FACTURACION\\venv\\Lib\\site-packages\\flet\\core\\progress_bar.py',
    'PYMODULE'),
   ('flet.core.popup_menu_button',
-   'C:\\Users\\Gerencia '
-   'Ti\\Desktop\\Fetch_notas_py\\venv\\Lib\\site-packages\\flet\\core\\popup_menu_button.py',
+   'D:\\PROYECTS\\PYTHON\\CONTROLADOR ESTADO '
+   'FACTURACION\\venv\\Lib\\site-packages\\flet\\core\\popup_menu_button.py',
    'PYMODULE'),
   ('flet.core.placeholder',
-   'C:\\Users\\Gerencia '
-   'Ti\\Desktop\\Fetch_notas_py\\venv\\Lib\\site-packages\\flet\\core\\placeholder.py',
+   'D:\\PROYECTS\\PYTHON\\CONTROLADOR ESTADO '
+   'FACTURACION\\venv\\Lib\\site-packages\\flet\\core\\placeholder.py',
    'PYMODULE'),
   ('flet.core.permission_handler',
-   'C:\\Users\\Gerencia '
-   'Ti\\Desktop\\Fetch_notas_py\\venv\\Lib\\site-packages\\flet\\core\\permission_handler.py',
+   'D:\\PROYECTS\\PYTHON\\CONTROLADOR ESTADO '
+   'FACTURACION\\venv\\Lib\\site-packages\\flet\\core\\permission_handler.py',
    'PYMODULE'),
   ('flet.core.pagelet',
-   'C:\\Users\\Gerencia '
-   'Ti\\Desktop\\Fetch_notas_py\\venv\\Lib\\site-packages\\flet\\core\\pagelet.py',
+   'D:\\PROYECTS\\PYTHON\\CONTROLADOR ESTADO '
+   'FACTURACION\\venv\\Lib\\site-packages\\flet\\core\\pagelet.py',
    'PYMODULE'),
   ('flet.core.page',
-   'C:\\Users\\Gerencia '
-   'Ti\\Desktop\\Fetch_notas_py\\venv\\Lib\\site-packages\\flet\\core\\page.py',
+   'D:\\PROYECTS\\PYTHON\\CONTROLADOR ESTADO '
+   'FACTURACION\\venv\\Lib\\site-packages\\flet\\core\\page.py',
    'PYMODULE'),
   ('flet.auth.oauth_provider',
-   'C:\\Users\\Gerencia '
-   'Ti\\Desktop\\Fetch_notas_py\\venv\\Lib\\site-packages\\flet\\auth\\oauth_provider.py',
+   'D:\\PROYECTS\\PYTHON\\CONTROLADOR ESTADO '
+   'FACTURACION\\venv\\Lib\\site-packages\\flet\\auth\\oauth_provider.py',
    'PYMODULE'),
   ('flet.auth',
-   'C:\\Users\\Gerencia '
-   'Ti\\Desktop\\Fetch_notas_py\\venv\\Lib\\site-packages\\flet\\auth\\__init__.py',
+   'D:\\PROYECTS\\PYTHON\\CONTROLADOR ESTADO '
+   'FACTURACION\\venv\\Lib\\site-packages\\flet\\auth\\__init__.py',
    'PYMODULE'),
   ('flet.auth.oauth_token',
-   'C:\\Users\\Gerencia '
-   'Ti\\Desktop\\Fetch_notas_py\\venv\\Lib\\site-packages\\flet\\auth\\oauth_token.py',
+   'D:\\PROYECTS\\PYTHON\\CONTROLADOR ESTADO '
+   'FACTURACION\\venv\\Lib\\site-packages\\flet\\auth\\oauth_token.py',
    'PYMODULE'),
   ('flet.core.embed_json_encoder',
-   'C:\\Users\\Gerencia '
-   'Ti\\Desktop\\Fetch_notas_py\\venv\\Lib\\site-packages\\flet\\core\\embed_json_encoder.py',
+   'D:\\PROYECTS\\PYTHON\\CONTROLADOR ESTADO '
+   'FACTURACION\\venv\\Lib\\site-packages\\flet\\core\\embed_json_encoder.py',
    'PYMODULE'),
   ('flet.auth.user',
-   'C:\\Users\\Gerencia '
-   'Ti\\Desktop\\Fetch_notas_py\\venv\\Lib\\site-packages\\flet\\auth\\user.py',
+   'D:\\PROYECTS\\PYTHON\\CONTROLADOR ESTADO '
+   'FACTURACION\\venv\\Lib\\site-packages\\flet\\auth\\user.py',
    'PYMODULE'),
   ('flet.auth.group',
-   'C:\\Users\\Gerencia '
-   'Ti\\Desktop\\Fetch_notas_py\\venv\\Lib\\site-packages\\flet\\auth\\group.py',
+   'D:\\PROYECTS\\PYTHON\\CONTROLADOR ESTADO '
+   'FACTURACION\\venv\\Lib\\site-packages\\flet\\auth\\group.py',
    'PYMODULE'),
   ('flet.auth.authorization',
-   'C:\\Users\\Gerencia '
-   'Ti\\Desktop\\Fetch_notas_py\\venv\\Lib\\site-packages\\flet\\auth\\authorization.py',
+   'D:\\PROYECTS\\PYTHON\\CONTROLADOR ESTADO '
+   'FACTURACION\\venv\\Lib\\site-packages\\flet\\auth\\authorization.py',
    'PYMODULE'),
   ('flet.version',
-   'C:\\Users\\Gerencia '
-   'Ti\\Desktop\\Fetch_notas_py\\venv\\Lib\\site-packages\\flet\\version.py',
+   'D:\\PROYECTS\\PYTHON\\CONTROLADOR ESTADO '
+   'FACTURACION\\venv\\Lib\\site-packages\\flet\\version.py',
    'PYMODULE'),
   ('oauthlib.oauth2.rfc6749.tokens',
-   'C:\\Users\\Gerencia '
-   'Ti\\Desktop\\Fetch_notas_py\\venv\\Lib\\site-packages\\oauthlib\\oauth2\\rfc6749\\tokens.py',
+   'D:\\PROYECTS\\PYTHON\\CONTROLADOR ESTADO '
+   'FACTURACION\\venv\\Lib\\site-packages\\oauthlib\\oauth2\\rfc6749\\tokens.py',
    'PYMODULE'),
   ('oauthlib.oauth2.rfc6749.utils',
-   'C:\\Users\\Gerencia '
-   'Ti\\Desktop\\Fetch_notas_py\\venv\\Lib\\site-packages\\oauthlib\\oauth2\\rfc6749\\utils.py',
+   'D:\\PROYECTS\\PYTHON\\CONTROLADOR ESTADO '
+   'FACTURACION\\venv\\Lib\\site-packages\\oauthlib\\oauth2\\rfc6749\\utils.py',
    'PYMODULE'),
   ('oauthlib.oauth2.rfc6749',
-   'C:\\Users\\Gerencia '
-   'Ti\\Desktop\\Fetch_notas_py\\venv\\Lib\\site-packages\\oauthlib\\oauth2\\rfc6749\\__init__.py',
+   'D:\\PROYECTS\\PYTHON\\CONTROLADOR ESTADO '
+   'FACTURACION\\venv\\Lib\\site-packages\\oauthlib\\oauth2\\rfc6749\\__init__.py',
    'PYMODULE'),
   ('oauthlib.oauth2.rfc6749.errors',
-   'C:\\Users\\Gerencia '
-   'Ti\\Desktop\\Fetch_notas_py\\venv\\Lib\\site-packages\\oauthlib\\oauth2\\rfc6749\\errors.py',
+   'D:\\PROYECTS\\PYTHON\\CONTROLADOR ESTADO '
+   'FACTURACION\\venv\\Lib\\site-packages\\oauthlib\\oauth2\\rfc6749\\errors.py',
    'PYMODULE'),
   ('oauthlib.oauth2.rfc6749.endpoints.base',
-   'C:\\Users\\Gerencia '
-   'Ti\\Desktop\\Fetch_notas_py\\venv\\Lib\\site-packages\\oauthlib\\oauth2\\rfc6749\\endpoints\\base.py',
+   'D:\\PROYECTS\\PYTHON\\CONTROLADOR ESTADO '
+   'FACTURACION\\venv\\Lib\\site-packages\\oauthlib\\oauth2\\rfc6749\\endpoints\\base.py',
    'PYMODULE'),
   ('oauthlib.oauth2.rfc6749.endpoints',
-   'C:\\Users\\Gerencia '
-   'Ti\\Desktop\\Fetch_notas_py\\venv\\Lib\\site-packages\\oauthlib\\oauth2\\rfc6749\\endpoints\\__init__.py',
+   'D:\\PROYECTS\\PYTHON\\CONTROLADOR ESTADO '
+   'FACTURACION\\venv\\Lib\\site-packages\\oauthlib\\oauth2\\rfc6749\\endpoints\\__init__.py',
    'PYMODULE'),
   ('oauthlib.oauth2.rfc6749.endpoints.token',
-   'C:\\Users\\Gerencia '
-   'Ti\\Desktop\\Fetch_notas_py\\venv\\Lib\\site-packages\\oauthlib\\oauth2\\rfc6749\\endpoints\\token.py',
+   'D:\\PROYECTS\\PYTHON\\CONTROLADOR ESTADO '
+   'FACTURACION\\venv\\Lib\\site-packages\\oauthlib\\oauth2\\rfc6749\\endpoints\\token.py',
    'PYMODULE'),
   ('oauthlib.oauth2.rfc6749.endpoints.revocation',
-   'C:\\Users\\Gerencia '
-   'Ti\\Desktop\\Fetch_notas_py\\venv\\Lib\\site-packages\\oauthlib\\oauth2\\rfc6749\\endpoints\\revocation.py',
+   'D:\\PROYECTS\\PYTHON\\CONTROLADOR ESTADO '
+   'FACTURACION\\venv\\Lib\\site-packages\\oauthlib\\oauth2\\rfc6749\\endpoints\\revocation.py',
    'PYMODULE'),
   ('oauthlib.oauth2.rfc6749.endpoints.resource',
-   'C:\\Users\\Gerencia '
-   'Ti\\Desktop\\Fetch_notas_py\\venv\\Lib\\site-packages\\oauthlib\\oauth2\\rfc6749\\endpoints\\resource.py',
+   'D:\\PROYECTS\\PYTHON\\CONTROLADOR ESTADO '
+   'FACTURACION\\venv\\Lib\\site-packages\\oauthlib\\oauth2\\rfc6749\\endpoints\\resource.py',
    'PYMODULE'),
   ('oauthlib.oauth2.rfc6749.endpoints.pre_configured',
-   'C:\\Users\\Gerencia '
-   'Ti\\Desktop\\Fetch_notas_py\\venv\\Lib\\site-packages\\oauthlib\\oauth2\\rfc6749\\endpoints\\pre_configured.py',
+   'D:\\PROYECTS\\PYTHON\\CONTROLADOR ESTADO '
+   'FACTURACION\\venv\\Lib\\site-packages\\oauthlib\\oauth2\\rfc6749\\endpoints\\pre_configured.py',
    'PYMODULE'),
   ('oauthlib.oauth2.rfc6749.endpoints.metadata',
-   'C:\\Users\\Gerencia '
-   'Ti\\Desktop\\Fetch_notas_py\\venv\\Lib\\site-packages\\oauthlib\\oauth2\\rfc6749\\endpoints\\metadata.py',
+   'D:\\PROYECTS\\PYTHON\\CONTROLADOR ESTADO '
+   'FACTURACION\\venv\\Lib\\site-packages\\oauthlib\\oauth2\\rfc6749\\endpoints\\metadata.py',
    'PYMODULE'),
   ('oauthlib.oauth2.rfc6749.endpoints.introspect',
-   'C:\\Users\\Gerencia '
-   'Ti\\Desktop\\Fetch_notas_py\\venv\\Lib\\site-packages\\oauthlib\\oauth2\\rfc6749\\endpoints\\introspect.py',
+   'D:\\PROYECTS\\PYTHON\\CONTROLADOR ESTADO '
+   'FACTURACION\\venv\\Lib\\site-packages\\oauthlib\\oauth2\\rfc6749\\endpoints\\introspect.py',
    'PYMODULE'),
   ('oauthlib.oauth2.rfc6749.endpoints.authorization',
-   'C:\\Users\\Gerencia '
-   'Ti\\Desktop\\Fetch_notas_py\\venv\\Lib\\site-packages\\oauthlib\\oauth2\\rfc6749\\endpoints\\authorization.py',
+   'D:\\PROYECTS\\PYTHON\\CONTROLADOR ESTADO '
+   'FACTURACION\\venv\\Lib\\site-packages\\oauthlib\\oauth2\\rfc6749\\endpoints\\authorization.py',
    'PYMODULE'),
   ('oauthlib.oauth2.rfc6749.grant_types',
-   'C:\\Users\\Gerencia '
-   'Ti\\Desktop\\Fetch_notas_py\\venv\\Lib\\site-packages\\oauthlib\\oauth2\\rfc6749\\grant_types\\__init__.py',
+   'D:\\PROYECTS\\PYTHON\\CONTROLADOR ESTADO '
+   'FACTURACION\\venv\\Lib\\site-packages\\oauthlib\\oauth2\\rfc6749\\grant_types\\__init__.py',
    'PYMODULE'),
   ('oauthlib.oauth2.rfc6749.grant_types.resource_owner_password_credentials',
-   'C:\\Users\\Gerencia '
-   'Ti\\Desktop\\Fetch_notas_py\\venv\\Lib\\site-packages\\oauthlib\\oauth2\\rfc6749\\grant_types\\resource_owner_password_credentials.py',
+   'D:\\PROYECTS\\PYTHON\\CONTROLADOR ESTADO '
+   'FACTURACION\\venv\\Lib\\site-packages\\oauthlib\\oauth2\\rfc6749\\grant_types\\resource_owner_password_credentials.py',
    'PYMODULE'),
   ('oauthlib.oauth2.rfc6749.grant_types.base',
-   'C:\\Users\\Gerencia '
-   'Ti\\Desktop\\Fetch_notas_py\\venv\\Lib\\site-packages\\oauthlib\\oauth2\\rfc6749\\grant_types\\base.py',
+   'D:\\PROYECTS\\PYTHON\\CONTROLADOR ESTADO '
+   'FACTURACION\\venv\\Lib\\site-packages\\oauthlib\\oauth2\\rfc6749\\grant_types\\base.py',
    'PYMODULE'),
   ('oauthlib.oauth2.rfc6749.request_validator',
-   'C:\\Users\\Gerencia '
-   'Ti\\Desktop\\Fetch_notas_py\\venv\\Lib\\site-packages\\oauthlib\\oauth2\\rfc6749\\request_validator.py',
+   'D:\\PROYECTS\\PYTHON\\CONTROLADOR ESTADO '
+   'FACTURACION\\venv\\Lib\\site-packages\\oauthlib\\oauth2\\rfc6749\\request_validator.py',
    'PYMODULE'),
   ('oauthlib.uri_validate',
-   'C:\\Users\\Gerencia '
-   'Ti\\Desktop\\Fetch_notas_py\\venv\\Lib\\site-packages\\oauthlib\\uri_validate.py',
+   'D:\\PROYECTS\\PYTHON\\CONTROLADOR ESTADO '
+   'FACTURACION\\venv\\Lib\\site-packages\\oauthlib\\uri_validate.py',
    'PYMODULE'),
   ('oauthlib.oauth2.rfc6749.grant_types.refresh_token',
-   'C:\\Users\\Gerencia '
-   'Ti\\Desktop\\Fetch_notas_py\\venv\\Lib\\site-packages\\oauthlib\\oauth2\\rfc6749\\grant_types\\refresh_token.py',
+   'D:\\PROYECTS\\PYTHON\\CONTROLADOR ESTADO '
+   'FACTURACION\\venv\\Lib\\site-packages\\oauthlib\\oauth2\\rfc6749\\grant_types\\refresh_token.py',
    'PYMODULE'),
   ('oauthlib.oauth2.rfc6749.grant_types.implicit',
-   'C:\\Users\\Gerencia '
-   'Ti\\Desktop\\Fetch_notas_py\\venv\\Lib\\site-packages\\oauthlib\\oauth2\\rfc6749\\grant_types\\implicit.py',
+   'D:\\PROYECTS\\PYTHON\\CONTROLADOR ESTADO '
+   'FACTURACION\\venv\\Lib\\site-packages\\oauthlib\\oauth2\\rfc6749\\grant_types\\implicit.py',
    'PYMODULE'),
   ('oauthlib.oauth2.rfc6749.grant_types.client_credentials',
-   'C:\\Users\\Gerencia '
-   'Ti\\Desktop\\Fetch_notas_py\\venv\\Lib\\site-packages\\oauthlib\\oauth2\\rfc6749\\grant_types\\client_credentials.py',
+   'D:\\PROYECTS\\PYTHON\\CONTROLADOR ESTADO '
+   'FACTURACION\\venv\\Lib\\site-packages\\oauthlib\\oauth2\\rfc6749\\grant_types\\client_credentials.py',
    'PYMODULE'),
   ('oauthlib.oauth2.rfc6749.grant_types.authorization_code',
-   'C:\\Users\\Gerencia '
-   'Ti\\Desktop\\Fetch_notas_py\\venv\\Lib\\site-packages\\oauthlib\\oauth2\\rfc6749\\grant_types\\authorization_code.py',
+   'D:\\PROYECTS\\PYTHON\\CONTROLADOR ESTADO '
+   'FACTURACION\\venv\\Lib\\site-packages\\oauthlib\\oauth2\\rfc6749\\grant_types\\authorization_code.py',
    'PYMODULE'),
   ('oauthlib.common',
-   'C:\\Users\\Gerencia '
-   'Ti\\Desktop\\Fetch_notas_py\\venv\\Lib\\site-packages\\oauthlib\\common.py',
+   'D:\\PROYECTS\\PYTHON\\CONTROLADOR ESTADO '
+   'FACTURACION\\venv\\Lib\\site-packages\\oauthlib\\common.py',
    'PYMODULE'),
   ('oauthlib',
-   'C:\\Users\\Gerencia '
-   'Ti\\Desktop\\Fetch_notas_py\\venv\\Lib\\site-packages\\oauthlib\\__init__.py',
+   'D:\\PROYECTS\\PYTHON\\CONTROLADOR ESTADO '
+   'FACTURACION\\venv\\Lib\\site-packages\\oauthlib\\__init__.py',
    'PYMODULE'),
   ('oauthlib.oauth2',
-   'C:\\Users\\Gerencia '
-   'Ti\\Desktop\\Fetch_notas_py\\venv\\Lib\\site-packages\\oauthlib\\oauth2\\__init__.py',
+   'D:\\PROYECTS\\PYTHON\\CONTROLADOR ESTADO '
+   'FACTURACION\\venv\\Lib\\site-packages\\oauthlib\\oauth2\\__init__.py',
    'PYMODULE'),
   ('oauthlib.oauth2.rfc8628.clients',
-   'C:\\Users\\Gerencia '
-   'Ti\\Desktop\\Fetch_notas_py\\venv\\Lib\\site-packages\\oauthlib\\oauth2\\rfc8628\\clients\\__init__.py',
+   'D:\\PROYECTS\\PYTHON\\CONTROLADOR ESTADO '
+   'FACTURACION\\venv\\Lib\\site-packages\\oauthlib\\oauth2\\rfc8628\\clients\\__init__.py',
    'PYMODULE'),
   ('oauthlib.oauth2.rfc8628',
-   'C:\\Users\\Gerencia '
-   'Ti\\Desktop\\Fetch_notas_py\\venv\\Lib\\site-packages\\oauthlib\\oauth2\\rfc8628\\__init__.py',
+   'D:\\PROYECTS\\PYTHON\\CONTROLADOR ESTADO '
+   'FACTURACION\\venv\\Lib\\site-packages\\oauthlib\\oauth2\\rfc8628\\__init__.py',
    'PYMODULE'),
   ('oauthlib.oauth2.rfc8628.clients.device',
-   'C:\\Users\\Gerencia '
-   'Ti\\Desktop\\Fetch_notas_py\\venv\\Lib\\site-packages\\oauthlib\\oauth2\\rfc8628\\clients\\device.py',
+   'D:\\PROYECTS\\PYTHON\\CONTROLADOR ESTADO '
+   'FACTURACION\\venv\\Lib\\site-packages\\oauthlib\\oauth2\\rfc8628\\clients\\device.py',
    'PYMODULE'),
   ('oauthlib.oauth2.rfc6749.parameters',
-   'C:\\Users\\Gerencia '
-   'Ti\\Desktop\\Fetch_notas_py\\venv\\Lib\\site-packages\\oauthlib\\oauth2\\rfc6749\\parameters.py',
+   'D:\\PROYECTS\\PYTHON\\CONTROLADOR ESTADO '
+   'FACTURACION\\venv\\Lib\\site-packages\\oauthlib\\oauth2\\rfc6749\\parameters.py',
    'PYMODULE'),
   ('oauthlib.signals',
-   'C:\\Users\\Gerencia '
-   'Ti\\Desktop\\Fetch_notas_py\\venv\\Lib\\site-packages\\oauthlib\\signals.py',
+   'D:\\PROYECTS\\PYTHON\\CONTROLADOR ESTADO '
+   'FACTURACION\\venv\\Lib\\site-packages\\oauthlib\\signals.py',
    'PYMODULE'),
   ('oauthlib.oauth2.rfc6749.clients',
-   'C:\\Users\\Gerencia '
-   'Ti\\Desktop\\Fetch_notas_py\\venv\\Lib\\site-packages\\oauthlib\\oauth2\\rfc6749\\clients\\__init__.py',
+   'D:\\PROYECTS\\PYTHON\\CONTROLADOR ESTADO '
+   'FACTURACION\\venv\\Lib\\site-packages\\oauthlib\\oauth2\\rfc6749\\clients\\__init__.py',
    'PYMODULE'),
   ('oauthlib.oauth2.rfc6749.clients.web_application',
-   'C:\\Users\\Gerencia '
-   'Ti\\Desktop\\Fetch_notas_py\\venv\\Lib\\site-packages\\oauthlib\\oauth2\\rfc6749\\clients\\web_application.py',
+   'D:\\PROYECTS\\PYTHON\\CONTROLADOR ESTADO '
+   'FACTURACION\\venv\\Lib\\site-packages\\oauthlib\\oauth2\\rfc6749\\clients\\web_application.py',
    'PYMODULE'),
   ('oauthlib.oauth2.rfc6749.clients.service_application',
-   'C:\\Users\\Gerencia '
-   'Ti\\Desktop\\Fetch_notas_py\\venv\\Lib\\site-packages\\oauthlib\\oauth2\\rfc6749\\clients\\service_application.py',
+   'D:\\PROYECTS\\PYTHON\\CONTROLADOR ESTADO '
+   'FACTURACION\\venv\\Lib\\site-packages\\oauthlib\\oauth2\\rfc6749\\clients\\service_application.py',
    'PYMODULE'),
   ('oauthlib.oauth2.rfc6749.clients.mobile_application',
-   'C:\\Users\\Gerencia '
-   'Ti\\Desktop\\Fetch_notas_py\\venv\\Lib\\site-packages\\oauthlib\\oauth2\\rfc6749\\clients\\mobile_application.py',
+   'D:\\PROYECTS\\PYTHON\\CONTROLADOR ESTADO '
+   'FACTURACION\\venv\\Lib\\site-packages\\oauthlib\\oauth2\\rfc6749\\clients\\mobile_application.py',
    'PYMODULE'),
   ('oauthlib.oauth2.rfc6749.clients.legacy_application',
-   'C:\\Users\\Gerencia '
-   'Ti\\Desktop\\Fetch_notas_py\\venv\\Lib\\site-packages\\oauthlib\\oauth2\\rfc6749\\clients\\legacy_application.py',
+   'D:\\PROYECTS\\PYTHON\\CONTROLADOR ESTADO '
+   'FACTURACION\\venv\\Lib\\site-packages\\oauthlib\\oauth2\\rfc6749\\clients\\legacy_application.py',
    'PYMODULE'),
   ('oauthlib.oauth2.rfc6749.clients.base',
-   'C:\\Users\\Gerencia '
-   'Ti\\Desktop\\Fetch_notas_py\\venv\\Lib\\site-packages\\oauthlib\\oauth2\\rfc6749\\clients\\base.py',
+   'D:\\PROYECTS\\PYTHON\\CONTROLADOR ESTADO '
+   'FACTURACION\\venv\\Lib\\site-packages\\oauthlib\\oauth2\\rfc6749\\clients\\base.py',
    'PYMODULE'),
   ('oauthlib.oauth2.rfc6749.clients.backend_application',
-   'C:\\Users\\Gerencia '
-   'Ti\\Desktop\\Fetch_notas_py\\venv\\Lib\\site-packages\\oauthlib\\oauth2\\rfc6749\\clients\\backend_application.py',
+   'D:\\PROYECTS\\PYTHON\\CONTROLADOR ESTADO '
+   'FACTURACION\\venv\\Lib\\site-packages\\oauthlib\\oauth2\\rfc6749\\clients\\backend_application.py',
    'PYMODULE'),
   ('httpx',
-   'C:\\Users\\Gerencia '
-   'Ti\\Desktop\\Fetch_notas_py\\venv\\Lib\\site-packages\\httpx\\__init__.py',
+   'D:\\PROYECTS\\PYTHON\\CONTROLADOR ESTADO '
+   'FACTURACION\\venv\\Lib\\site-packages\\httpx\\__init__.py',
    'PYMODULE'),
   ('httpx._main',
-   'C:\\Users\\Gerencia '
-   'Ti\\Desktop\\Fetch_notas_py\\venv\\Lib\\site-packages\\httpx\\_main.py',
+   'D:\\PROYECTS\\PYTHON\\CONTROLADOR ESTADO '
+   'FACTURACION\\venv\\Lib\\site-packages\\httpx\\_main.py',
    'PYMODULE'),
   ('httpcore',
-   'C:\\Users\\Gerencia '
-   'Ti\\Desktop\\Fetch_notas_py\\venv\\Lib\\site-packages\\httpcore\\__init__.py',
+   'D:\\PROYECTS\\PYTHON\\CONTROLADOR ESTADO '
+   'FACTURACION\\venv\\Lib\\site-packages\\httpcore\\__init__.py',
    'PYMODULE'),
   ('httpcore._backends.trio',
-   'C:\\Users\\Gerencia '
-   'Ti\\Desktop\\Fetch_notas_py\\venv\\Lib\\site-packages\\httpcore\\_backends\\trio.py',
+   'D:\\PROYECTS\\PYTHON\\CONTROLADOR ESTADO '
+   'FACTURACION\\venv\\Lib\\site-packages\\httpcore\\_backends\\trio.py',
    'PYMODULE'),
   ('httpcore._backends',
-   'C:\\Users\\Gerencia '
-   'Ti\\Desktop\\Fetch_notas_py\\venv\\Lib\\site-packages\\httpcore\\_backends\\__init__.py',
+   'D:\\PROYECTS\\PYTHON\\CONTROLADOR ESTADO '
+   'FACTURACION\\venv\\Lib\\site-packages\\httpcore\\_backends\\__init__.py',
    'PYMODULE'),
   ('httpcore._backends.anyio',
-   'C:\\Users\\Gerencia '
-   'Ti\\Desktop\\Fetch_notas_py\\venv\\Lib\\site-packages\\httpcore\\_backends\\anyio.py',
+   'D:\\PROYECTS\\PYTHON\\CONTROLADOR ESTADO '
+   'FACTURACION\\venv\\Lib\\site-packages\\httpcore\\_backends\\anyio.py',
    'PYMODULE'),
   ('httpcore._utils',
-   'C:\\Users\\Gerencia '
-   'Ti\\Desktop\\Fetch_notas_py\\venv\\Lib\\site-packages\\httpcore\\_utils.py',
+   'D:\\PROYECTS\\PYTHON\\CONTROLADOR ESTADO '
+   'FACTURACION\\venv\\Lib\\site-packages\\httpcore\\_utils.py',
    'PYMODULE'),
   ('anyio',
-   'C:\\Users\\Gerencia '
-   'Ti\\Desktop\\Fetch_notas_py\\venv\\Lib\\site-packages\\anyio\\__init__.py',
+   'D:\\PROYECTS\\PYTHON\\CONTROLADOR ESTADO '
+   'FACTURACION\\venv\\Lib\\site-packages\\anyio\\__init__.py',
    'PYMODULE'),
   ('anyio._backends._trio',
-   'C:\\Users\\Gerencia '
-   'Ti\\Desktop\\Fetch_notas_py\\venv\\Lib\\site-packages\\anyio\\_backends\\_trio.py',
+   'D:\\PROYECTS\\PYTHON\\CONTROLADOR ESTADO '
+   'FACTURACION\\venv\\Lib\\site-packages\\anyio\\_backends\\_trio.py',
    'PYMODULE'),
   ('anyio.streams.memory',
-   'C:\\Users\\Gerencia '
-   'Ti\\Desktop\\Fetch_notas_py\\venv\\Lib\\site-packages\\anyio\\streams\\memory.py',
+   'D:\\PROYECTS\\PYTHON\\CONTROLADOR ESTADO '
+   'FACTURACION\\venv\\Lib\\site-packages\\anyio\\streams\\memory.py',
    'PYMODULE'),
   ('anyio.streams',
-   'C:\\Users\\Gerencia '
-   'Ti\\Desktop\\Fetch_notas_py\\venv\\Lib\\site-packages\\anyio\\streams\\__init__.py',
+   'D:\\PROYECTS\\PYTHON\\CONTROLADOR ESTADO '
+   'FACTURACION\\venv\\Lib\\site-packages\\anyio\\streams\\__init__.py',
    'PYMODULE'),
   ('anyio.lowlevel',
-   'C:\\Users\\Gerencia '
-   'Ti\\Desktop\\Fetch_notas_py\\venv\\Lib\\site-packages\\anyio\\lowlevel.py',
+   'D:\\PROYECTS\\PYTHON\\CONTROLADOR ESTADO '
+   'FACTURACION\\venv\\Lib\\site-packages\\anyio\\lowlevel.py',
    'PYMODULE'),
   ('anyio.abc._eventloop',
-   'C:\\Users\\Gerencia '
-   'Ti\\Desktop\\Fetch_notas_py\\venv\\Lib\\site-packages\\anyio\\abc\\_eventloop.py',
+   'D:\\PROYECTS\\PYTHON\\CONTROLADOR ESTADO '
+   'FACTURACION\\venv\\Lib\\site-packages\\anyio\\abc\\_eventloop.py',
    'PYMODULE'),
   ('anyio.abc._testing',
-   'C:\\Users\\Gerencia '
-   'Ti\\Desktop\\Fetch_notas_py\\venv\\Lib\\site-packages\\anyio\\abc\\_testing.py',
+   'D:\\PROYECTS\\PYTHON\\CONTROLADOR ESTADO '
+   'FACTURACION\\venv\\Lib\\site-packages\\anyio\\abc\\_testing.py',
    'PYMODULE'),
   ('anyio.abc._tasks',
-   'C:\\Users\\Gerencia '
-   'Ti\\Desktop\\Fetch_notas_py\\venv\\Lib\\site-packages\\anyio\\abc\\_tasks.py',
+   'D:\\PROYECTS\\PYTHON\\CONTROLADOR ESTADO '
+   'FACTURACION\\venv\\Lib\\site-packages\\anyio\\abc\\_tasks.py',
    'PYMODULE'),
   ('anyio.abc._subprocesses',
-   'C:\\Users\\Gerencia '
-   'Ti\\Desktop\\Fetch_notas_py\\venv\\Lib\\site-packages\\anyio\\abc\\_subprocesses.py',
+   'D:\\PROYECTS\\PYTHON\\CONTROLADOR ESTADO '
+   'FACTURACION\\venv\\Lib\\site-packages\\anyio\\abc\\_subprocesses.py',
    'PYMODULE'),
   ('anyio.abc._streams',
-   'C:\\Users\\Gerencia '
-   'Ti\\Desktop\\Fetch_notas_py\\venv\\Lib\\site-packages\\anyio\\abc\\_streams.py',
+   'D:\\PROYECTS\\PYTHON\\CONTROLADOR ESTADO '
+   'FACTURACION\\venv\\Lib\\site-packages\\anyio\\abc\\_streams.py',
    'PYMODULE'),
   ('anyio.abc._resources',
-   'C:\\Users\\Gerencia '
-   'Ti\\Desktop\\Fetch_notas_py\\venv\\Lib\\site-packages\\anyio\\abc\\_resources.py',
+   'D:\\PROYECTS\\PYTHON\\CONTROLADOR ESTADO '
+   'FACTURACION\\venv\\Lib\\site-packages\\anyio\\abc\\_resources.py',
    'PYMODULE'),
   ('anyio.abc._sockets',
-   'C:\\Users\\Gerencia '
-   'Ti\\Desktop\\Fetch_notas_py\\venv\\Lib\\site-packages\\anyio\\abc\\_sockets.py',
+   'D:\\PROYECTS\\PYTHON\\CONTROLADOR ESTADO '
+   'FACTURACION\\venv\\Lib\\site-packages\\anyio\\abc\\_sockets.py',
    'PYMODULE'),
   ('anyio.from_thread',
-   'C:\\Users\\Gerencia '
-   'Ti\\Desktop\\Fetch_notas_py\\venv\\Lib\\site-packages\\anyio\\from_thread.py',
+   'D:\\PROYECTS\\PYTHON\\CONTROLADOR ESTADO '
+   'FACTURACION\\venv\\Lib\\site-packages\\anyio\\from_thread.py',
    'PYMODULE'),
   ('anyio._core',
-   'C:\\Users\\Gerencia '
-   'Ti\\Desktop\\Fetch_notas_py\\venv\\Lib\\site-packages\\anyio\\_core\\__init__.py',
+   'D:\\PROYECTS\\PYTHON\\CONTROLADOR ESTADO '
+   'FACTURACION\\venv\\Lib\\site-packages\\anyio\\_core\\__init__.py',
    'PYMODULE'),
   ('anyio.abc',
-   'C:\\Users\\Gerencia '
-   'Ti\\Desktop\\Fetch_notas_py\\venv\\Lib\\site-packages\\anyio\\abc\\__init__.py',
+   'D:\\PROYECTS\\PYTHON\\CONTROLADOR ESTADO '
+   'FACTURACION\\venv\\Lib\\site-packages\\anyio\\abc\\__init__.py',
    'PYMODULE'),
   ('anyio._backends._asyncio',
-   'C:\\Users\\Gerencia '
-   'Ti\\Desktop\\Fetch_notas_py\\venv\\Lib\\site-packages\\anyio\\_backends\\_asyncio.py',
+   'D:\\PROYECTS\\PYTHON\\CONTROLADOR ESTADO '
+   'FACTURACION\\venv\\Lib\\site-packages\\anyio\\_backends\\_asyncio.py',
    'PYMODULE'),
   ('anyio._core._asyncio_selector_thread',
-   'C:\\Users\\Gerencia '
-   'Ti\\Desktop\\Fetch_notas_py\\venv\\Lib\\site-packages\\anyio\\_core\\_asyncio_selector_thread.py',
+   'D:\\PROYECTS\\PYTHON\\CONTROLADOR ESTADO '
+   'FACTURACION\\venv\\Lib\\site-packages\\anyio\\_core\\_asyncio_selector_thread.py',
    'PYMODULE'),
   ('asyncio.tasks',
    'C:\\Program '
@@ -1330,16 +1330,16 @@
    'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.12_3.12.2800.0_x64__qbz5n2kfra8p0\\Lib\\asyncio\\events.py',
    'PYMODULE'),
   ('sniffio',
-   'C:\\Users\\Gerencia '
-   'Ti\\Desktop\\Fetch_notas_py\\venv\\Lib\\site-packages\\sniffio\\__init__.py',
+   'D:\\PROYECTS\\PYTHON\\CONTROLADOR ESTADO '
+   'FACTURACION\\venv\\Lib\\site-packages\\sniffio\\__init__.py',
    'PYMODULE'),
   ('sniffio._impl',
-   'C:\\Users\\Gerencia '
-   'Ti\\Desktop\\Fetch_notas_py\\venv\\Lib\\site-packages\\sniffio\\_impl.py',
+   'D:\\PROYECTS\\PYTHON\\CONTROLADOR ESTADO '
+   'FACTURACION\\venv\\Lib\\site-packages\\sniffio\\_impl.py',
    'PYMODULE'),
   ('sniffio._version',
-   'C:\\Users\\Gerencia '
-   'Ti\\Desktop\\Fetch_notas_py\\venv\\Lib\\site-packages\\sniffio\\_version.py',
+   'D:\\PROYECTS\\PYTHON\\CONTROLADOR ESTADO '
+   'FACTURACION\\venv\\Lib\\site-packages\\sniffio\\_version.py',
    'PYMODULE'),
   ('asyncio.base_events',
    'C:\\Program '
@@ -1370,842 +1370,842 @@
    'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.12_3.12.2800.0_x64__qbz5n2kfra8p0\\Lib\\asyncio\\protocols.py',
    'PYMODULE'),
   ('anyio._backends',
-   'C:\\Users\\Gerencia '
-   'Ti\\Desktop\\Fetch_notas_py\\venv\\Lib\\site-packages\\anyio\\_backends\\__init__.py',
+   'D:\\PROYECTS\\PYTHON\\CONTROLADOR ESTADO '
+   'FACTURACION\\venv\\Lib\\site-packages\\anyio\\_backends\\__init__.py',
    'PYMODULE'),
   ('anyio._core._typedattr',
-   'C:\\Users\\Gerencia '
-   'Ti\\Desktop\\Fetch_notas_py\\venv\\Lib\\site-packages\\anyio\\_core\\_typedattr.py',
+   'D:\\PROYECTS\\PYTHON\\CONTROLADOR ESTADO '
+   'FACTURACION\\venv\\Lib\\site-packages\\anyio\\_core\\_typedattr.py',
    'PYMODULE'),
   ('anyio._core._testing',
-   'C:\\Users\\Gerencia '
-   'Ti\\Desktop\\Fetch_notas_py\\venv\\Lib\\site-packages\\anyio\\_core\\_testing.py',
+   'D:\\PROYECTS\\PYTHON\\CONTROLADOR ESTADO '
+   'FACTURACION\\venv\\Lib\\site-packages\\anyio\\_core\\_testing.py',
    'PYMODULE'),
   ('anyio._core._tempfile',
-   'C:\\Users\\Gerencia '
-   'Ti\\Desktop\\Fetch_notas_py\\venv\\Lib\\site-packages\\anyio\\_core\\_tempfile.py',
+   'D:\\PROYECTS\\PYTHON\\CONTROLADOR ESTADO '
+   'FACTURACION\\venv\\Lib\\site-packages\\anyio\\_core\\_tempfile.py',
    'PYMODULE'),
   ('anyio._core._tasks',
-   'C:\\Users\\Gerencia '
-   'Ti\\Desktop\\Fetch_notas_py\\venv\\Lib\\site-packages\\anyio\\_core\\_tasks.py',
+   'D:\\PROYECTS\\PYTHON\\CONTROLADOR ESTADO '
+   'FACTURACION\\venv\\Lib\\site-packages\\anyio\\_core\\_tasks.py',
    'PYMODULE'),
   ('anyio._core._synchronization',
-   'C:\\Users\\Gerencia '
-   'Ti\\Desktop\\Fetch_notas_py\\venv\\Lib\\site-packages\\anyio\\_core\\_synchronization.py',
+   'D:\\PROYECTS\\PYTHON\\CONTROLADOR ESTADO '
+   'FACTURACION\\venv\\Lib\\site-packages\\anyio\\_core\\_synchronization.py',
    'PYMODULE'),
   ('anyio._core._subprocesses',
-   'C:\\Users\\Gerencia '
-   'Ti\\Desktop\\Fetch_notas_py\\venv\\Lib\\site-packages\\anyio\\_core\\_subprocesses.py',
+   'D:\\PROYECTS\\PYTHON\\CONTROLADOR ESTADO '
+   'FACTURACION\\venv\\Lib\\site-packages\\anyio\\_core\\_subprocesses.py',
    'PYMODULE'),
   ('anyio._core._streams',
-   'C:\\Users\\Gerencia '
-   'Ti\\Desktop\\Fetch_notas_py\\venv\\Lib\\site-packages\\anyio\\_core\\_streams.py',
+   'D:\\PROYECTS\\PYTHON\\CONTROLADOR ESTADO '
+   'FACTURACION\\venv\\Lib\\site-packages\\anyio\\_core\\_streams.py',
    'PYMODULE'),
   ('anyio._core._sockets',
-   'C:\\Users\\Gerencia '
-   'Ti\\Desktop\\Fetch_notas_py\\venv\\Lib\\site-packages\\anyio\\_core\\_sockets.py',
+   'D:\\PROYECTS\\PYTHON\\CONTROLADOR ESTADO '
+   'FACTURACION\\venv\\Lib\\site-packages\\anyio\\_core\\_sockets.py',
    'PYMODULE'),
   ('idna',
-   'C:\\Users\\Gerencia '
-   'Ti\\Desktop\\Fetch_notas_py\\venv\\Lib\\site-packages\\idna\\__init__.py',
+   'D:\\PROYECTS\\PYTHON\\CONTROLADOR ESTADO '
+   'FACTURACION\\venv\\Lib\\site-packages\\idna\\__init__.py',
    'PYMODULE'),
   ('idna.package_data',
-   'C:\\Users\\Gerencia '
-   'Ti\\Desktop\\Fetch_notas_py\\venv\\Lib\\site-packages\\idna\\package_data.py',
+   'D:\\PROYECTS\\PYTHON\\CONTROLADOR ESTADO '
+   'FACTURACION\\venv\\Lib\\site-packages\\idna\\package_data.py',
    'PYMODULE'),
   ('idna.intranges',
-   'C:\\Users\\Gerencia '
-   'Ti\\Desktop\\Fetch_notas_py\\venv\\Lib\\site-packages\\idna\\intranges.py',
+   'D:\\PROYECTS\\PYTHON\\CONTROLADOR ESTADO '
+   'FACTURACION\\venv\\Lib\\site-packages\\idna\\intranges.py',
    'PYMODULE'),
   ('idna.core',
-   'C:\\Users\\Gerencia '
-   'Ti\\Desktop\\Fetch_notas_py\\venv\\Lib\\site-packages\\idna\\core.py',
+   'D:\\PROYECTS\\PYTHON\\CONTROLADOR ESTADO '
+   'FACTURACION\\venv\\Lib\\site-packages\\idna\\core.py',
    'PYMODULE'),
   ('idna.uts46data',
-   'C:\\Users\\Gerencia '
-   'Ti\\Desktop\\Fetch_notas_py\\venv\\Lib\\site-packages\\idna\\uts46data.py',
+   'D:\\PROYECTS\\PYTHON\\CONTROLADOR ESTADO '
+   'FACTURACION\\venv\\Lib\\site-packages\\idna\\uts46data.py',
    'PYMODULE'),
   ('idna.idnadata',
-   'C:\\Users\\Gerencia '
-   'Ti\\Desktop\\Fetch_notas_py\\venv\\Lib\\site-packages\\idna\\idnadata.py',
+   'D:\\PROYECTS\\PYTHON\\CONTROLADOR ESTADO '
+   'FACTURACION\\venv\\Lib\\site-packages\\idna\\idnadata.py',
    'PYMODULE'),
   ('anyio.streams.tls',
-   'C:\\Users\\Gerencia '
-   'Ti\\Desktop\\Fetch_notas_py\\venv\\Lib\\site-packages\\anyio\\streams\\tls.py',
+   'D:\\PROYECTS\\PYTHON\\CONTROLADOR ESTADO '
+   'FACTURACION\\venv\\Lib\\site-packages\\anyio\\streams\\tls.py',
    'PYMODULE'),
   ('anyio.streams.stapled',
-   'C:\\Users\\Gerencia '
-   'Ti\\Desktop\\Fetch_notas_py\\venv\\Lib\\site-packages\\anyio\\streams\\stapled.py',
+   'D:\\PROYECTS\\PYTHON\\CONTROLADOR ESTADO '
+   'FACTURACION\\venv\\Lib\\site-packages\\anyio\\streams\\stapled.py',
    'PYMODULE'),
   ('anyio._core._signals',
-   'C:\\Users\\Gerencia '
-   'Ti\\Desktop\\Fetch_notas_py\\venv\\Lib\\site-packages\\anyio\\_core\\_signals.py',
+   'D:\\PROYECTS\\PYTHON\\CONTROLADOR ESTADO '
+   'FACTURACION\\venv\\Lib\\site-packages\\anyio\\_core\\_signals.py',
    'PYMODULE'),
   ('anyio._core._resources',
-   'C:\\Users\\Gerencia '
-   'Ti\\Desktop\\Fetch_notas_py\\venv\\Lib\\site-packages\\anyio\\_core\\_resources.py',
+   'D:\\PROYECTS\\PYTHON\\CONTROLADOR ESTADO '
+   'FACTURACION\\venv\\Lib\\site-packages\\anyio\\_core\\_resources.py',
    'PYMODULE'),
   ('anyio._core._fileio',
-   'C:\\Users\\Gerencia '
-   'Ti\\Desktop\\Fetch_notas_py\\venv\\Lib\\site-packages\\anyio\\_core\\_fileio.py',
+   'D:\\PROYECTS\\PYTHON\\CONTROLADOR ESTADO '
+   'FACTURACION\\venv\\Lib\\site-packages\\anyio\\_core\\_fileio.py',
    'PYMODULE'),
   ('anyio._core._exceptions',
-   'C:\\Users\\Gerencia '
-   'Ti\\Desktop\\Fetch_notas_py\\venv\\Lib\\site-packages\\anyio\\_core\\_exceptions.py',
+   'D:\\PROYECTS\\PYTHON\\CONTROLADOR ESTADO '
+   'FACTURACION\\venv\\Lib\\site-packages\\anyio\\_core\\_exceptions.py',
    'PYMODULE'),
   ('anyio._core._eventloop',
-   'C:\\Users\\Gerencia '
-   'Ti\\Desktop\\Fetch_notas_py\\venv\\Lib\\site-packages\\anyio\\_core\\_eventloop.py',
+   'D:\\PROYECTS\\PYTHON\\CONTROLADOR ESTADO '
+   'FACTURACION\\venv\\Lib\\site-packages\\anyio\\_core\\_eventloop.py',
    'PYMODULE'),
   ('anyio.to_thread',
-   'C:\\Users\\Gerencia '
-   'Ti\\Desktop\\Fetch_notas_py\\venv\\Lib\\site-packages\\anyio\\to_thread.py',
+   'D:\\PROYECTS\\PYTHON\\CONTROLADOR ESTADO '
+   'FACTURACION\\venv\\Lib\\site-packages\\anyio\\to_thread.py',
    'PYMODULE'),
   ('httpcore._sync',
-   'C:\\Users\\Gerencia '
-   'Ti\\Desktop\\Fetch_notas_py\\venv\\Lib\\site-packages\\httpcore\\_sync\\__init__.py',
+   'D:\\PROYECTS\\PYTHON\\CONTROLADOR ESTADO '
+   'FACTURACION\\venv\\Lib\\site-packages\\httpcore\\_sync\\__init__.py',
    'PYMODULE'),
   ('httpcore._sync.socks_proxy',
-   'C:\\Users\\Gerencia '
-   'Ti\\Desktop\\Fetch_notas_py\\venv\\Lib\\site-packages\\httpcore\\_sync\\socks_proxy.py',
+   'D:\\PROYECTS\\PYTHON\\CONTROLADOR ESTADO '
+   'FACTURACION\\venv\\Lib\\site-packages\\httpcore\\_sync\\socks_proxy.py',
    'PYMODULE'),
   ('httpcore._trace',
-   'C:\\Users\\Gerencia '
-   'Ti\\Desktop\\Fetch_notas_py\\venv\\Lib\\site-packages\\httpcore\\_trace.py',
+   'D:\\PROYECTS\\PYTHON\\CONTROLADOR ESTADO '
+   'FACTURACION\\venv\\Lib\\site-packages\\httpcore\\_trace.py',
    'PYMODULE'),
   ('httpcore._synchronization',
-   'C:\\Users\\Gerencia '
-   'Ti\\Desktop\\Fetch_notas_py\\venv\\Lib\\site-packages\\httpcore\\_synchronization.py',
+   'D:\\PROYECTS\\PYTHON\\CONTROLADOR ESTADO '
+   'FACTURACION\\venv\\Lib\\site-packages\\httpcore\\_synchronization.py',
    'PYMODULE'),
   ('httpcore._sync.http2',
-   'C:\\Users\\Gerencia '
-   'Ti\\Desktop\\Fetch_notas_py\\venv\\Lib\\site-packages\\httpcore\\_sync\\http2.py',
+   'D:\\PROYECTS\\PYTHON\\CONTROLADOR ESTADO '
+   'FACTURACION\\venv\\Lib\\site-packages\\httpcore\\_sync\\http2.py',
    'PYMODULE'),
   ('httpcore._sync.interfaces',
-   'C:\\Users\\Gerencia '
-   'Ti\\Desktop\\Fetch_notas_py\\venv\\Lib\\site-packages\\httpcore\\_sync\\interfaces.py',
+   'D:\\PROYECTS\\PYTHON\\CONTROLADOR ESTADO '
+   'FACTURACION\\venv\\Lib\\site-packages\\httpcore\\_sync\\interfaces.py',
    'PYMODULE'),
   ('httpcore._sync.http_proxy',
-   'C:\\Users\\Gerencia '
-   'Ti\\Desktop\\Fetch_notas_py\\venv\\Lib\\site-packages\\httpcore\\_sync\\http_proxy.py',
+   'D:\\PROYECTS\\PYTHON\\CONTROLADOR ESTADO '
+   'FACTURACION\\venv\\Lib\\site-packages\\httpcore\\_sync\\http_proxy.py',
    'PYMODULE'),
   ('httpcore._sync.http11',
-   'C:\\Users\\Gerencia '
-   'Ti\\Desktop\\Fetch_notas_py\\venv\\Lib\\site-packages\\httpcore\\_sync\\http11.py',
+   'D:\\PROYECTS\\PYTHON\\CONTROLADOR ESTADO '
+   'FACTURACION\\venv\\Lib\\site-packages\\httpcore\\_sync\\http11.py',
    'PYMODULE'),
   ('h11',
-   'C:\\Users\\Gerencia '
-   'Ti\\Desktop\\Fetch_notas_py\\venv\\Lib\\site-packages\\h11\\__init__.py',
+   'D:\\PROYECTS\\PYTHON\\CONTROLADOR ESTADO '
+   'FACTURACION\\venv\\Lib\\site-packages\\h11\\__init__.py',
    'PYMODULE'),
   ('h11._version',
-   'C:\\Users\\Gerencia '
-   'Ti\\Desktop\\Fetch_notas_py\\venv\\Lib\\site-packages\\h11\\_version.py',
+   'D:\\PROYECTS\\PYTHON\\CONTROLADOR ESTADO '
+   'FACTURACION\\venv\\Lib\\site-packages\\h11\\_version.py',
    'PYMODULE'),
   ('h11._util',
-   'C:\\Users\\Gerencia '
-   'Ti\\Desktop\\Fetch_notas_py\\venv\\Lib\\site-packages\\h11\\_util.py',
+   'D:\\PROYECTS\\PYTHON\\CONTROLADOR ESTADO '
+   'FACTURACION\\venv\\Lib\\site-packages\\h11\\_util.py',
    'PYMODULE'),
   ('h11._state',
-   'C:\\Users\\Gerencia '
-   'Ti\\Desktop\\Fetch_notas_py\\venv\\Lib\\site-packages\\h11\\_state.py',
+   'D:\\PROYECTS\\PYTHON\\CONTROLADOR ESTADO '
+   'FACTURACION\\venv\\Lib\\site-packages\\h11\\_state.py',
    'PYMODULE'),
   ('h11._events',
-   'C:\\Users\\Gerencia '
-   'Ti\\Desktop\\Fetch_notas_py\\venv\\Lib\\site-packages\\h11\\_events.py',
+   'D:\\PROYECTS\\PYTHON\\CONTROLADOR ESTADO '
+   'FACTURACION\\venv\\Lib\\site-packages\\h11\\_events.py',
    'PYMODULE'),
   ('h11._headers',
-   'C:\\Users\\Gerencia '
-   'Ti\\Desktop\\Fetch_notas_py\\venv\\Lib\\site-packages\\h11\\_headers.py',
+   'D:\\PROYECTS\\PYTHON\\CONTROLADOR ESTADO '
+   'FACTURACION\\venv\\Lib\\site-packages\\h11\\_headers.py',
    'PYMODULE'),
   ('h11._abnf',
-   'C:\\Users\\Gerencia '
-   'Ti\\Desktop\\Fetch_notas_py\\venv\\Lib\\site-packages\\h11\\_abnf.py',
+   'D:\\PROYECTS\\PYTHON\\CONTROLADOR ESTADO '
+   'FACTURACION\\venv\\Lib\\site-packages\\h11\\_abnf.py',
    'PYMODULE'),
   ('h11._connection',
-   'C:\\Users\\Gerencia '
-   'Ti\\Desktop\\Fetch_notas_py\\venv\\Lib\\site-packages\\h11\\_connection.py',
+   'D:\\PROYECTS\\PYTHON\\CONTROLADOR ESTADO '
+   'FACTURACION\\venv\\Lib\\site-packages\\h11\\_connection.py',
    'PYMODULE'),
   ('h11._writers',
-   'C:\\Users\\Gerencia '
-   'Ti\\Desktop\\Fetch_notas_py\\venv\\Lib\\site-packages\\h11\\_writers.py',
+   'D:\\PROYECTS\\PYTHON\\CONTROLADOR ESTADO '
+   'FACTURACION\\venv\\Lib\\site-packages\\h11\\_writers.py',
    'PYMODULE'),
   ('h11._receivebuffer',
-   'C:\\Users\\Gerencia '
-   'Ti\\Desktop\\Fetch_notas_py\\venv\\Lib\\site-packages\\h11\\_receivebuffer.py',
+   'D:\\PROYECTS\\PYTHON\\CONTROLADOR ESTADO '
+   'FACTURACION\\venv\\Lib\\site-packages\\h11\\_receivebuffer.py',
    'PYMODULE'),
   ('h11._readers',
-   'C:\\Users\\Gerencia '
-   'Ti\\Desktop\\Fetch_notas_py\\venv\\Lib\\site-packages\\h11\\_readers.py',
+   'D:\\PROYECTS\\PYTHON\\CONTROLADOR ESTADO '
+   'FACTURACION\\venv\\Lib\\site-packages\\h11\\_readers.py',
    'PYMODULE'),
   ('httpcore._sync.connection_pool',
-   'C:\\Users\\Gerencia '
-   'Ti\\Desktop\\Fetch_notas_py\\venv\\Lib\\site-packages\\httpcore\\_sync\\connection_pool.py',
+   'D:\\PROYECTS\\PYTHON\\CONTROLADOR ESTADO '
+   'FACTURACION\\venv\\Lib\\site-packages\\httpcore\\_sync\\connection_pool.py',
    'PYMODULE'),
   ('httpcore._sync.connection',
-   'C:\\Users\\Gerencia '
-   'Ti\\Desktop\\Fetch_notas_py\\venv\\Lib\\site-packages\\httpcore\\_sync\\connection.py',
+   'D:\\PROYECTS\\PYTHON\\CONTROLADOR ESTADO '
+   'FACTURACION\\venv\\Lib\\site-packages\\httpcore\\_sync\\connection.py',
    'PYMODULE'),
   ('httpcore._ssl',
-   'C:\\Users\\Gerencia '
-   'Ti\\Desktop\\Fetch_notas_py\\venv\\Lib\\site-packages\\httpcore\\_ssl.py',
+   'D:\\PROYECTS\\PYTHON\\CONTROLADOR ESTADO '
+   'FACTURACION\\venv\\Lib\\site-packages\\httpcore\\_ssl.py',
    'PYMODULE'),
   ('certifi',
-   'C:\\Users\\Gerencia '
-   'Ti\\Desktop\\Fetch_notas_py\\venv\\Lib\\site-packages\\certifi\\__init__.py',
+   'D:\\PROYECTS\\PYTHON\\CONTROLADOR ESTADO '
+   'FACTURACION\\venv\\Lib\\site-packages\\certifi\\__init__.py',
    'PYMODULE'),
   ('certifi.core',
-   'C:\\Users\\Gerencia '
-   'Ti\\Desktop\\Fetch_notas_py\\venv\\Lib\\site-packages\\certifi\\core.py',
+   'D:\\PROYECTS\\PYTHON\\CONTROLADOR ESTADO '
+   'FACTURACION\\venv\\Lib\\site-packages\\certifi\\core.py',
    'PYMODULE'),
   ('httpcore._models',
-   'C:\\Users\\Gerencia '
-   'Ti\\Desktop\\Fetch_notas_py\\venv\\Lib\\site-packages\\httpcore\\_models.py',
+   'D:\\PROYECTS\\PYTHON\\CONTROLADOR ESTADO '
+   'FACTURACION\\venv\\Lib\\site-packages\\httpcore\\_models.py',
    'PYMODULE'),
   ('httpcore._exceptions',
-   'C:\\Users\\Gerencia '
-   'Ti\\Desktop\\Fetch_notas_py\\venv\\Lib\\site-packages\\httpcore\\_exceptions.py',
+   'D:\\PROYECTS\\PYTHON\\CONTROLADOR ESTADO '
+   'FACTURACION\\venv\\Lib\\site-packages\\httpcore\\_exceptions.py',
    'PYMODULE'),
   ('httpcore._backends.sync',
-   'C:\\Users\\Gerencia '
-   'Ti\\Desktop\\Fetch_notas_py\\venv\\Lib\\site-packages\\httpcore\\_backends\\sync.py',
+   'D:\\PROYECTS\\PYTHON\\CONTROLADOR ESTADO '
+   'FACTURACION\\venv\\Lib\\site-packages\\httpcore\\_backends\\sync.py',
    'PYMODULE'),
   ('httpcore._backends.mock',
-   'C:\\Users\\Gerencia '
-   'Ti\\Desktop\\Fetch_notas_py\\venv\\Lib\\site-packages\\httpcore\\_backends\\mock.py',
+   'D:\\PROYECTS\\PYTHON\\CONTROLADOR ESTADO '
+   'FACTURACION\\venv\\Lib\\site-packages\\httpcore\\_backends\\mock.py',
    'PYMODULE'),
   ('httpcore._backends.base',
-   'C:\\Users\\Gerencia '
-   'Ti\\Desktop\\Fetch_notas_py\\venv\\Lib\\site-packages\\httpcore\\_backends\\base.py',
+   'D:\\PROYECTS\\PYTHON\\CONTROLADOR ESTADO '
+   'FACTURACION\\venv\\Lib\\site-packages\\httpcore\\_backends\\base.py',
    'PYMODULE'),
   ('httpcore._async',
-   'C:\\Users\\Gerencia '
-   'Ti\\Desktop\\Fetch_notas_py\\venv\\Lib\\site-packages\\httpcore\\_async\\__init__.py',
+   'D:\\PROYECTS\\PYTHON\\CONTROLADOR ESTADO '
+   'FACTURACION\\venv\\Lib\\site-packages\\httpcore\\_async\\__init__.py',
    'PYMODULE'),
   ('httpcore._async.socks_proxy',
-   'C:\\Users\\Gerencia '
-   'Ti\\Desktop\\Fetch_notas_py\\venv\\Lib\\site-packages\\httpcore\\_async\\socks_proxy.py',
+   'D:\\PROYECTS\\PYTHON\\CONTROLADOR ESTADO '
+   'FACTURACION\\venv\\Lib\\site-packages\\httpcore\\_async\\socks_proxy.py',
    'PYMODULE'),
   ('httpcore._backends.auto',
-   'C:\\Users\\Gerencia '
-   'Ti\\Desktop\\Fetch_notas_py\\venv\\Lib\\site-packages\\httpcore\\_backends\\auto.py',
+   'D:\\PROYECTS\\PYTHON\\CONTROLADOR ESTADO '
+   'FACTURACION\\venv\\Lib\\site-packages\\httpcore\\_backends\\auto.py',
    'PYMODULE'),
   ('httpcore._async.http2',
-   'C:\\Users\\Gerencia '
-   'Ti\\Desktop\\Fetch_notas_py\\venv\\Lib\\site-packages\\httpcore\\_async\\http2.py',
+   'D:\\PROYECTS\\PYTHON\\CONTROLADOR ESTADO '
+   'FACTURACION\\venv\\Lib\\site-packages\\httpcore\\_async\\http2.py',
    'PYMODULE'),
   ('httpcore._async.interfaces',
-   'C:\\Users\\Gerencia '
-   'Ti\\Desktop\\Fetch_notas_py\\venv\\Lib\\site-packages\\httpcore\\_async\\interfaces.py',
+   'D:\\PROYECTS\\PYTHON\\CONTROLADOR ESTADO '
+   'FACTURACION\\venv\\Lib\\site-packages\\httpcore\\_async\\interfaces.py',
    'PYMODULE'),
   ('httpcore._async.http_proxy',
-   'C:\\Users\\Gerencia '
-   'Ti\\Desktop\\Fetch_notas_py\\venv\\Lib\\site-packages\\httpcore\\_async\\http_proxy.py',
+   'D:\\PROYECTS\\PYTHON\\CONTROLADOR ESTADO '
+   'FACTURACION\\venv\\Lib\\site-packages\\httpcore\\_async\\http_proxy.py',
    'PYMODULE'),
   ('httpcore._async.http11',
-   'C:\\Users\\Gerencia '
-   'Ti\\Desktop\\Fetch_notas_py\\venv\\Lib\\site-packages\\httpcore\\_async\\http11.py',
+   'D:\\PROYECTS\\PYTHON\\CONTROLADOR ESTADO '
+   'FACTURACION\\venv\\Lib\\site-packages\\httpcore\\_async\\http11.py',
    'PYMODULE'),
   ('httpcore._async.connection_pool',
-   'C:\\Users\\Gerencia '
-   'Ti\\Desktop\\Fetch_notas_py\\venv\\Lib\\site-packages\\httpcore\\_async\\connection_pool.py',
+   'D:\\PROYECTS\\PYTHON\\CONTROLADOR ESTADO '
+   'FACTURACION\\venv\\Lib\\site-packages\\httpcore\\_async\\connection_pool.py',
    'PYMODULE'),
   ('httpcore._async.connection',
-   'C:\\Users\\Gerencia '
-   'Ti\\Desktop\\Fetch_notas_py\\venv\\Lib\\site-packages\\httpcore\\_async\\connection.py',
+   'D:\\PROYECTS\\PYTHON\\CONTROLADOR ESTADO '
+   'FACTURACION\\venv\\Lib\\site-packages\\httpcore\\_async\\connection.py',
    'PYMODULE'),
   ('httpcore._api',
-   'C:\\Users\\Gerencia '
-   'Ti\\Desktop\\Fetch_notas_py\\venv\\Lib\\site-packages\\httpcore\\_api.py',
+   'D:\\PROYECTS\\PYTHON\\CONTROLADOR ESTADO '
+   'FACTURACION\\venv\\Lib\\site-packages\\httpcore\\_api.py',
    'PYMODULE'),
   ('httpx._urls',
-   'C:\\Users\\Gerencia '
-   'Ti\\Desktop\\Fetch_notas_py\\venv\\Lib\\site-packages\\httpx\\_urls.py',
+   'D:\\PROYECTS\\PYTHON\\CONTROLADOR ESTADO '
+   'FACTURACION\\venv\\Lib\\site-packages\\httpx\\_urls.py',
    'PYMODULE'),
   ('httpx._utils',
-   'C:\\Users\\Gerencia '
-   'Ti\\Desktop\\Fetch_notas_py\\venv\\Lib\\site-packages\\httpx\\_utils.py',
+   'D:\\PROYECTS\\PYTHON\\CONTROLADOR ESTADO '
+   'FACTURACION\\venv\\Lib\\site-packages\\httpx\\_utils.py',
    'PYMODULE'),
   ('httpx._urlparse',
-   'C:\\Users\\Gerencia '
-   'Ti\\Desktop\\Fetch_notas_py\\venv\\Lib\\site-packages\\httpx\\_urlparse.py',
+   'D:\\PROYECTS\\PYTHON\\CONTROLADOR ESTADO '
+   'FACTURACION\\venv\\Lib\\site-packages\\httpx\\_urlparse.py',
    'PYMODULE'),
   ('httpx._types',
-   'C:\\Users\\Gerencia '
-   'Ti\\Desktop\\Fetch_notas_py\\venv\\Lib\\site-packages\\httpx\\_types.py',
+   'D:\\PROYECTS\\PYTHON\\CONTROLADOR ESTADO '
+   'FACTURACION\\venv\\Lib\\site-packages\\httpx\\_types.py',
    'PYMODULE'),
   ('httpx._transports',
-   'C:\\Users\\Gerencia '
-   'Ti\\Desktop\\Fetch_notas_py\\venv\\Lib\\site-packages\\httpx\\_transports\\__init__.py',
+   'D:\\PROYECTS\\PYTHON\\CONTROLADOR ESTADO '
+   'FACTURACION\\venv\\Lib\\site-packages\\httpx\\_transports\\__init__.py',
    'PYMODULE'),
   ('httpx._transports.wsgi',
-   'C:\\Users\\Gerencia '
-   'Ti\\Desktop\\Fetch_notas_py\\venv\\Lib\\site-packages\\httpx\\_transports\\wsgi.py',
+   'D:\\PROYECTS\\PYTHON\\CONTROLADOR ESTADO '
+   'FACTURACION\\venv\\Lib\\site-packages\\httpx\\_transports\\wsgi.py',
    'PYMODULE'),
   ('httpx._transports.mock',
-   'C:\\Users\\Gerencia '
-   'Ti\\Desktop\\Fetch_notas_py\\venv\\Lib\\site-packages\\httpx\\_transports\\mock.py',
+   'D:\\PROYECTS\\PYTHON\\CONTROLADOR ESTADO '
+   'FACTURACION\\venv\\Lib\\site-packages\\httpx\\_transports\\mock.py',
    'PYMODULE'),
   ('httpx._transports.default',
-   'C:\\Users\\Gerencia '
-   'Ti\\Desktop\\Fetch_notas_py\\venv\\Lib\\site-packages\\httpx\\_transports\\default.py',
+   'D:\\PROYECTS\\PYTHON\\CONTROLADOR ESTADO '
+   'FACTURACION\\venv\\Lib\\site-packages\\httpx\\_transports\\default.py',
    'PYMODULE'),
   ('httpx._transports.base',
-   'C:\\Users\\Gerencia '
-   'Ti\\Desktop\\Fetch_notas_py\\venv\\Lib\\site-packages\\httpx\\_transports\\base.py',
+   'D:\\PROYECTS\\PYTHON\\CONTROLADOR ESTADO '
+   'FACTURACION\\venv\\Lib\\site-packages\\httpx\\_transports\\base.py',
    'PYMODULE'),
   ('httpx._transports.asgi',
-   'C:\\Users\\Gerencia '
-   'Ti\\Desktop\\Fetch_notas_py\\venv\\Lib\\site-packages\\httpx\\_transports\\asgi.py',
+   'D:\\PROYECTS\\PYTHON\\CONTROLADOR ESTADO '
+   'FACTURACION\\venv\\Lib\\site-packages\\httpx\\_transports\\asgi.py',
    'PYMODULE'),
   ('httpx._status_codes',
-   'C:\\Users\\Gerencia '
-   'Ti\\Desktop\\Fetch_notas_py\\venv\\Lib\\site-packages\\httpx\\_status_codes.py',
+   'D:\\PROYECTS\\PYTHON\\CONTROLADOR ESTADO '
+   'FACTURACION\\venv\\Lib\\site-packages\\httpx\\_status_codes.py',
    'PYMODULE'),
   ('httpx._models',
-   'C:\\Users\\Gerencia '
-   'Ti\\Desktop\\Fetch_notas_py\\venv\\Lib\\site-packages\\httpx\\_models.py',
+   'D:\\PROYECTS\\PYTHON\\CONTROLADOR ESTADO '
+   'FACTURACION\\venv\\Lib\\site-packages\\httpx\\_models.py',
    'PYMODULE'),
   ('httpx._multipart',
-   'C:\\Users\\Gerencia '
-   'Ti\\Desktop\\Fetch_notas_py\\venv\\Lib\\site-packages\\httpx\\_multipart.py',
+   'D:\\PROYECTS\\PYTHON\\CONTROLADOR ESTADO '
+   'FACTURACION\\venv\\Lib\\site-packages\\httpx\\_multipart.py',
    'PYMODULE'),
   ('httpx._decoders',
-   'C:\\Users\\Gerencia '
-   'Ti\\Desktop\\Fetch_notas_py\\venv\\Lib\\site-packages\\httpx\\_decoders.py',
+   'D:\\PROYECTS\\PYTHON\\CONTROLADOR ESTADO '
+   'FACTURACION\\venv\\Lib\\site-packages\\httpx\\_decoders.py',
    'PYMODULE'),
   ('httpx._exceptions',
-   'C:\\Users\\Gerencia '
-   'Ti\\Desktop\\Fetch_notas_py\\venv\\Lib\\site-packages\\httpx\\_exceptions.py',
+   'D:\\PROYECTS\\PYTHON\\CONTROLADOR ESTADO '
+   'FACTURACION\\venv\\Lib\\site-packages\\httpx\\_exceptions.py',
    'PYMODULE'),
   ('httpx._content',
-   'C:\\Users\\Gerencia '
-   'Ti\\Desktop\\Fetch_notas_py\\venv\\Lib\\site-packages\\httpx\\_content.py',
+   'D:\\PROYECTS\\PYTHON\\CONTROLADOR ESTADO '
+   'FACTURACION\\venv\\Lib\\site-packages\\httpx\\_content.py',
    'PYMODULE'),
   ('httpx._config',
-   'C:\\Users\\Gerencia '
-   'Ti\\Desktop\\Fetch_notas_py\\venv\\Lib\\site-packages\\httpx\\_config.py',
+   'D:\\PROYECTS\\PYTHON\\CONTROLADOR ESTADO '
+   'FACTURACION\\venv\\Lib\\site-packages\\httpx\\_config.py',
    'PYMODULE'),
   ('httpx._client',
-   'C:\\Users\\Gerencia '
-   'Ti\\Desktop\\Fetch_notas_py\\venv\\Lib\\site-packages\\httpx\\_client.py',
+   'D:\\PROYECTS\\PYTHON\\CONTROLADOR ESTADO '
+   'FACTURACION\\venv\\Lib\\site-packages\\httpx\\_client.py',
    'PYMODULE'),
   ('httpx._auth',
-   'C:\\Users\\Gerencia '
-   'Ti\\Desktop\\Fetch_notas_py\\venv\\Lib\\site-packages\\httpx\\_auth.py',
+   'D:\\PROYECTS\\PYTHON\\CONTROLADOR ESTADO '
+   'FACTURACION\\venv\\Lib\\site-packages\\httpx\\_auth.py',
    'PYMODULE'),
   ('httpx._api',
-   'C:\\Users\\Gerencia '
-   'Ti\\Desktop\\Fetch_notas_py\\venv\\Lib\\site-packages\\httpx\\_api.py',
+   'D:\\PROYECTS\\PYTHON\\CONTROLADOR ESTADO '
+   'FACTURACION\\venv\\Lib\\site-packages\\httpx\\_api.py',
    'PYMODULE'),
   ('httpx.__version__',
-   'C:\\Users\\Gerencia '
-   'Ti\\Desktop\\Fetch_notas_py\\venv\\Lib\\site-packages\\httpx\\__version__.py',
+   'D:\\PROYECTS\\PYTHON\\CONTROLADOR ESTADO '
+   'FACTURACION\\venv\\Lib\\site-packages\\httpx\\__version__.py',
    'PYMODULE'),
   ('flet.core.session_storage',
-   'C:\\Users\\Gerencia '
-   'Ti\\Desktop\\Fetch_notas_py\\venv\\Lib\\site-packages\\flet\\core\\session_storage.py',
+   'D:\\PROYECTS\\PYTHON\\CONTROLADOR ESTADO '
+   'FACTURACION\\venv\\Lib\\site-packages\\flet\\core\\session_storage.py',
    'PYMODULE'),
   ('flet.core.protocol',
-   'C:\\Users\\Gerencia '
-   'Ti\\Desktop\\Fetch_notas_py\\venv\\Lib\\site-packages\\flet\\core\\protocol.py',
+   'D:\\PROYECTS\\PYTHON\\CONTROLADOR ESTADO '
+   'FACTURACION\\venv\\Lib\\site-packages\\flet\\core\\protocol.py',
    'PYMODULE'),
   ('flet.core.connection',
-   'C:\\Users\\Gerencia '
-   'Ti\\Desktop\\Fetch_notas_py\\venv\\Lib\\site-packages\\flet\\core\\connection.py',
+   'D:\\PROYECTS\\PYTHON\\CONTROLADOR ESTADO '
+   'FACTURACION\\venv\\Lib\\site-packages\\flet\\core\\connection.py',
    'PYMODULE'),
   ('flet.core.client_storage',
-   'C:\\Users\\Gerencia '
-   'Ti\\Desktop\\Fetch_notas_py\\venv\\Lib\\site-packages\\flet\\core\\client_storage.py',
+   'D:\\PROYECTS\\PYTHON\\CONTROLADOR ESTADO '
+   'FACTURACION\\venv\\Lib\\site-packages\\flet\\core\\client_storage.py',
    'PYMODULE'),
   ('uuid',
    'C:\\Program '
    'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.12_3.12.2800.0_x64__qbz5n2kfra8p0\\Lib\\uuid.py',
    'PYMODULE'),
   ('flet.core.outlined_button',
-   'C:\\Users\\Gerencia '
-   'Ti\\Desktop\\Fetch_notas_py\\venv\\Lib\\site-packages\\flet\\core\\outlined_button.py',
+   'D:\\PROYECTS\\PYTHON\\CONTROLADOR ESTADO '
+   'FACTURACION\\venv\\Lib\\site-packages\\flet\\core\\outlined_button.py',
    'PYMODULE'),
   ('flet.core.navigation_rail',
-   'C:\\Users\\Gerencia '
-   'Ti\\Desktop\\Fetch_notas_py\\venv\\Lib\\site-packages\\flet\\core\\navigation_rail.py',
+   'D:\\PROYECTS\\PYTHON\\CONTROLADOR ESTADO '
+   'FACTURACION\\venv\\Lib\\site-packages\\flet\\core\\navigation_rail.py',
    'PYMODULE'),
   ('flet.core.navigation_drawer',
-   'C:\\Users\\Gerencia '
-   'Ti\\Desktop\\Fetch_notas_py\\venv\\Lib\\site-packages\\flet\\core\\navigation_drawer.py',
+   'D:\\PROYECTS\\PYTHON\\CONTROLADOR ESTADO '
+   'FACTURACION\\venv\\Lib\\site-packages\\flet\\core\\navigation_drawer.py',
    'PYMODULE'),
   ('flet.core.navigation_bar',
-   'C:\\Users\\Gerencia '
-   'Ti\\Desktop\\Fetch_notas_py\\venv\\Lib\\site-packages\\flet\\core\\navigation_bar.py',
+   'D:\\PROYECTS\\PYTHON\\CONTROLADOR ESTADO '
+   'FACTURACION\\venv\\Lib\\site-packages\\flet\\core\\navigation_bar.py',
    'PYMODULE'),
   ('flet.core.menu_item_button',
-   'C:\\Users\\Gerencia '
-   'Ti\\Desktop\\Fetch_notas_py\\venv\\Lib\\site-packages\\flet\\core\\menu_item_button.py',
+   'D:\\PROYECTS\\PYTHON\\CONTROLADOR ESTADO '
+   'FACTURACION\\venv\\Lib\\site-packages\\flet\\core\\menu_item_button.py',
    'PYMODULE'),
   ('flet.core.menu_bar',
-   'C:\\Users\\Gerencia '
-   'Ti\\Desktop\\Fetch_notas_py\\venv\\Lib\\site-packages\\flet\\core\\menu_bar.py',
+   'D:\\PROYECTS\\PYTHON\\CONTROLADOR ESTADO '
+   'FACTURACION\\venv\\Lib\\site-packages\\flet\\core\\menu_bar.py',
    'PYMODULE'),
   ('flet.core.markdown',
-   'C:\\Users\\Gerencia '
-   'Ti\\Desktop\\Fetch_notas_py\\venv\\Lib\\site-packages\\flet\\core\\markdown.py',
+   'D:\\PROYECTS\\PYTHON\\CONTROLADOR ESTADO '
+   'FACTURACION\\venv\\Lib\\site-packages\\flet\\core\\markdown.py',
    'PYMODULE'),
   ('flet.core.lottie',
-   'C:\\Users\\Gerencia '
-   'Ti\\Desktop\\Fetch_notas_py\\venv\\Lib\\site-packages\\flet\\core\\lottie.py',
+   'D:\\PROYECTS\\PYTHON\\CONTROLADOR ESTADO '
+   'FACTURACION\\venv\\Lib\\site-packages\\flet\\core\\lottie.py',
    'PYMODULE'),
   ('flet.core.list_view',
-   'C:\\Users\\Gerencia '
-   'Ti\\Desktop\\Fetch_notas_py\\venv\\Lib\\site-packages\\flet\\core\\list_view.py',
+   'D:\\PROYECTS\\PYTHON\\CONTROLADOR ESTADO '
+   'FACTURACION\\venv\\Lib\\site-packages\\flet\\core\\list_view.py',
    'PYMODULE'),
   ('flet.core.list_tile',
-   'C:\\Users\\Gerencia '
-   'Ti\\Desktop\\Fetch_notas_py\\venv\\Lib\\site-packages\\flet\\core\\list_tile.py',
+   'D:\\PROYECTS\\PYTHON\\CONTROLADOR ESTADO '
+   'FACTURACION\\venv\\Lib\\site-packages\\flet\\core\\list_tile.py',
    'PYMODULE'),
   ('flet.core.interactive_viewer',
-   'C:\\Users\\Gerencia '
-   'Ti\\Desktop\\Fetch_notas_py\\venv\\Lib\\site-packages\\flet\\core\\interactive_viewer.py',
+   'D:\\PROYECTS\\PYTHON\\CONTROLADOR ESTADO '
+   'FACTURACION\\venv\\Lib\\site-packages\\flet\\core\\interactive_viewer.py',
    'PYMODULE'),
   ('flet.core.image',
-   'C:\\Users\\Gerencia '
-   'Ti\\Desktop\\Fetch_notas_py\\venv\\Lib\\site-packages\\flet\\core\\image.py',
+   'D:\\PROYECTS\\PYTHON\\CONTROLADOR ESTADO '
+   'FACTURACION\\venv\\Lib\\site-packages\\flet\\core\\image.py',
    'PYMODULE'),
   ('flet.core.icons',
-   'C:\\Users\\Gerencia '
-   'Ti\\Desktop\\Fetch_notas_py\\venv\\Lib\\site-packages\\flet\\core\\icons.py',
+   'D:\\PROYECTS\\PYTHON\\CONTROLADOR ESTADO '
+   'FACTURACION\\venv\\Lib\\site-packages\\flet\\core\\icons.py',
    'PYMODULE'),
   ('flet.core.icon_button',
-   'C:\\Users\\Gerencia '
-   'Ti\\Desktop\\Fetch_notas_py\\venv\\Lib\\site-packages\\flet\\core\\icon_button.py',
+   'D:\\PROYECTS\\PYTHON\\CONTROLADOR ESTADO '
+   'FACTURACION\\venv\\Lib\\site-packages\\flet\\core\\icon_button.py',
    'PYMODULE'),
   ('flet.core.icon',
-   'C:\\Users\\Gerencia '
-   'Ti\\Desktop\\Fetch_notas_py\\venv\\Lib\\site-packages\\flet\\core\\icon.py',
+   'D:\\PROYECTS\\PYTHON\\CONTROLADOR ESTADO '
+   'FACTURACION\\venv\\Lib\\site-packages\\flet\\core\\icon.py',
    'PYMODULE'),
   ('flet.core.haptic_feedback',
-   'C:\\Users\\Gerencia '
-   'Ti\\Desktop\\Fetch_notas_py\\venv\\Lib\\site-packages\\flet\\core\\haptic_feedback.py',
+   'D:\\PROYECTS\\PYTHON\\CONTROLADOR ESTADO '
+   'FACTURACION\\venv\\Lib\\site-packages\\flet\\core\\haptic_feedback.py',
    'PYMODULE'),
   ('flet.core.grid_view',
-   'C:\\Users\\Gerencia '
-   'Ti\\Desktop\\Fetch_notas_py\\venv\\Lib\\site-packages\\flet\\core\\grid_view.py',
+   'D:\\PROYECTS\\PYTHON\\CONTROLADOR ESTADO '
+   'FACTURACION\\venv\\Lib\\site-packages\\flet\\core\\grid_view.py',
    'PYMODULE'),
   ('flet.core.gradients',
-   'C:\\Users\\Gerencia '
-   'Ti\\Desktop\\Fetch_notas_py\\venv\\Lib\\site-packages\\flet\\core\\gradients.py',
+   'D:\\PROYECTS\\PYTHON\\CONTROLADOR ESTADO '
+   'FACTURACION\\venv\\Lib\\site-packages\\flet\\core\\gradients.py',
    'PYMODULE'),
   ('flet.core.gesture_detector',
-   'C:\\Users\\Gerencia '
-   'Ti\\Desktop\\Fetch_notas_py\\venv\\Lib\\site-packages\\flet\\core\\gesture_detector.py',
+   'D:\\PROYECTS\\PYTHON\\CONTROLADOR ESTADO '
+   'FACTURACION\\venv\\Lib\\site-packages\\flet\\core\\gesture_detector.py',
    'PYMODULE'),
   ('flet.core.geolocator',
-   'C:\\Users\\Gerencia '
-   'Ti\\Desktop\\Fetch_notas_py\\venv\\Lib\\site-packages\\flet\\core\\geolocator.py',
+   'D:\\PROYECTS\\PYTHON\\CONTROLADOR ESTADO '
+   'FACTURACION\\venv\\Lib\\site-packages\\flet\\core\\geolocator.py',
    'PYMODULE'),
   ('flet.core.form_field_control',
-   'C:\\Users\\Gerencia '
-   'Ti\\Desktop\\Fetch_notas_py\\venv\\Lib\\site-packages\\flet\\core\\form_field_control.py',
+   'D:\\PROYECTS\\PYTHON\\CONTROLADOR ESTADO '
+   'FACTURACION\\venv\\Lib\\site-packages\\flet\\core\\form_field_control.py',
    'PYMODULE'),
   ('flet.core.floating_action_button',
-   'C:\\Users\\Gerencia '
-   'Ti\\Desktop\\Fetch_notas_py\\venv\\Lib\\site-packages\\flet\\core\\floating_action_button.py',
+   'D:\\PROYECTS\\PYTHON\\CONTROLADOR ESTADO '
+   'FACTURACION\\venv\\Lib\\site-packages\\flet\\core\\floating_action_button.py',
    'PYMODULE'),
   ('flet.core.flet_app',
-   'C:\\Users\\Gerencia '
-   'Ti\\Desktop\\Fetch_notas_py\\venv\\Lib\\site-packages\\flet\\core\\flet_app.py',
+   'D:\\PROYECTS\\PYTHON\\CONTROLADOR ESTADO '
+   'FACTURACION\\venv\\Lib\\site-packages\\flet\\core\\flet_app.py',
    'PYMODULE'),
   ('flet.core.flashlight',
-   'C:\\Users\\Gerencia '
-   'Ti\\Desktop\\Fetch_notas_py\\venv\\Lib\\site-packages\\flet\\core\\flashlight.py',
+   'D:\\PROYECTS\\PYTHON\\CONTROLADOR ESTADO '
+   'FACTURACION\\venv\\Lib\\site-packages\\flet\\core\\flashlight.py',
    'PYMODULE'),
   ('flet.core.filled_tonal_button',
-   'C:\\Users\\Gerencia '
-   'Ti\\Desktop\\Fetch_notas_py\\venv\\Lib\\site-packages\\flet\\core\\filled_tonal_button.py',
+   'D:\\PROYECTS\\PYTHON\\CONTROLADOR ESTADO '
+   'FACTURACION\\venv\\Lib\\site-packages\\flet\\core\\filled_tonal_button.py',
    'PYMODULE'),
   ('flet.core.filled_button',
-   'C:\\Users\\Gerencia '
-   'Ti\\Desktop\\Fetch_notas_py\\venv\\Lib\\site-packages\\flet\\core\\filled_button.py',
+   'D:\\PROYECTS\\PYTHON\\CONTROLADOR ESTADO '
+   'FACTURACION\\venv\\Lib\\site-packages\\flet\\core\\filled_button.py',
    'PYMODULE'),
   ('flet.core.file_picker',
-   'C:\\Users\\Gerencia '
-   'Ti\\Desktop\\Fetch_notas_py\\venv\\Lib\\site-packages\\flet\\core\\file_picker.py',
+   'D:\\PROYECTS\\PYTHON\\CONTROLADOR ESTADO '
+   'FACTURACION\\venv\\Lib\\site-packages\\flet\\core\\file_picker.py',
    'PYMODULE'),
   ('flet.core.expansion_tile',
-   'C:\\Users\\Gerencia '
-   'Ti\\Desktop\\Fetch_notas_py\\venv\\Lib\\site-packages\\flet\\core\\expansion_tile.py',
+   'D:\\PROYECTS\\PYTHON\\CONTROLADOR ESTADO '
+   'FACTURACION\\venv\\Lib\\site-packages\\flet\\core\\expansion_tile.py',
    'PYMODULE'),
   ('flet.core.expansion_panel',
-   'C:\\Users\\Gerencia '
-   'Ti\\Desktop\\Fetch_notas_py\\venv\\Lib\\site-packages\\flet\\core\\expansion_panel.py',
+   'D:\\PROYECTS\\PYTHON\\CONTROLADOR ESTADO '
+   'FACTURACION\\venv\\Lib\\site-packages\\flet\\core\\expansion_panel.py',
    'PYMODULE'),
   ('flet.core.exceptions',
-   'C:\\Users\\Gerencia '
-   'Ti\\Desktop\\Fetch_notas_py\\venv\\Lib\\site-packages\\flet\\core\\exceptions.py',
+   'D:\\PROYECTS\\PYTHON\\CONTROLADOR ESTADO '
+   'FACTURACION\\venv\\Lib\\site-packages\\flet\\core\\exceptions.py',
    'PYMODULE'),
   ('flet.core.elevated_button',
-   'C:\\Users\\Gerencia '
-   'Ti\\Desktop\\Fetch_notas_py\\venv\\Lib\\site-packages\\flet\\core\\elevated_button.py',
+   'D:\\PROYECTS\\PYTHON\\CONTROLADOR ESTADO '
+   'FACTURACION\\venv\\Lib\\site-packages\\flet\\core\\elevated_button.py',
    'PYMODULE'),
   ('flet.core.draggable',
-   'C:\\Users\\Gerencia '
-   'Ti\\Desktop\\Fetch_notas_py\\venv\\Lib\\site-packages\\flet\\core\\draggable.py',
+   'D:\\PROYECTS\\PYTHON\\CONTROLADOR ESTADO '
+   'FACTURACION\\venv\\Lib\\site-packages\\flet\\core\\draggable.py',
    'PYMODULE'),
   ('flet.core.drag_target',
-   'C:\\Users\\Gerencia '
-   'Ti\\Desktop\\Fetch_notas_py\\venv\\Lib\\site-packages\\flet\\core\\drag_target.py',
+   'D:\\PROYECTS\\PYTHON\\CONTROLADOR ESTADO '
+   'FACTURACION\\venv\\Lib\\site-packages\\flet\\core\\drag_target.py',
    'PYMODULE'),
   ('flet.core.divider',
-   'C:\\Users\\Gerencia '
-   'Ti\\Desktop\\Fetch_notas_py\\venv\\Lib\\site-packages\\flet\\core\\divider.py',
+   'D:\\PROYECTS\\PYTHON\\CONTROLADOR ESTADO '
+   'FACTURACION\\venv\\Lib\\site-packages\\flet\\core\\divider.py',
    'PYMODULE'),
   ('flet.core.dismissible',
-   'C:\\Users\\Gerencia '
-   'Ti\\Desktop\\Fetch_notas_py\\venv\\Lib\\site-packages\\flet\\core\\dismissible.py',
+   'D:\\PROYECTS\\PYTHON\\CONTROLADOR ESTADO '
+   'FACTURACION\\venv\\Lib\\site-packages\\flet\\core\\dismissible.py',
    'PYMODULE'),
   ('flet.core.date_picker',
-   'C:\\Users\\Gerencia '
-   'Ti\\Desktop\\Fetch_notas_py\\venv\\Lib\\site-packages\\flet\\core\\date_picker.py',
+   'D:\\PROYECTS\\PYTHON\\CONTROLADOR ESTADO '
+   'FACTURACION\\venv\\Lib\\site-packages\\flet\\core\\date_picker.py',
    'PYMODULE'),
   ('flet.core.datatable',
-   'C:\\Users\\Gerencia '
-   'Ti\\Desktop\\Fetch_notas_py\\venv\\Lib\\site-packages\\flet\\core\\datatable.py',
+   'D:\\PROYECTS\\PYTHON\\CONTROLADOR ESTADO '
+   'FACTURACION\\venv\\Lib\\site-packages\\flet\\core\\datatable.py',
    'PYMODULE'),
   ('flet.core.cupertino_timer_picker',
-   'C:\\Users\\Gerencia '
-   'Ti\\Desktop\\Fetch_notas_py\\venv\\Lib\\site-packages\\flet\\core\\cupertino_timer_picker.py',
+   'D:\\PROYECTS\\PYTHON\\CONTROLADOR ESTADO '
+   'FACTURACION\\venv\\Lib\\site-packages\\flet\\core\\cupertino_timer_picker.py',
    'PYMODULE'),
   ('flet.core.cupertino_textfield',
-   'C:\\Users\\Gerencia '
-   'Ti\\Desktop\\Fetch_notas_py\\venv\\Lib\\site-packages\\flet\\core\\cupertino_textfield.py',
+   'D:\\PROYECTS\\PYTHON\\CONTROLADOR ESTADO '
+   'FACTURACION\\venv\\Lib\\site-packages\\flet\\core\\cupertino_textfield.py',
    'PYMODULE'),
   ('flet.core.cupertino_switch',
-   'C:\\Users\\Gerencia '
-   'Ti\\Desktop\\Fetch_notas_py\\venv\\Lib\\site-packages\\flet\\core\\cupertino_switch.py',
+   'D:\\PROYECTS\\PYTHON\\CONTROLADOR ESTADO '
+   'FACTURACION\\venv\\Lib\\site-packages\\flet\\core\\cupertino_switch.py',
    'PYMODULE'),
   ('flet.core.cupertino_sliding_segmented_button',
-   'C:\\Users\\Gerencia '
-   'Ti\\Desktop\\Fetch_notas_py\\venv\\Lib\\site-packages\\flet\\core\\cupertino_sliding_segmented_button.py',
+   'D:\\PROYECTS\\PYTHON\\CONTROLADOR ESTADO '
+   'FACTURACION\\venv\\Lib\\site-packages\\flet\\core\\cupertino_sliding_segmented_button.py',
    'PYMODULE'),
   ('flet.core.cupertino_slider',
-   'C:\\Users\\Gerencia '
-   'Ti\\Desktop\\Fetch_notas_py\\venv\\Lib\\site-packages\\flet\\core\\cupertino_slider.py',
+   'D:\\PROYECTS\\PYTHON\\CONTROLADOR ESTADO '
+   'FACTURACION\\venv\\Lib\\site-packages\\flet\\core\\cupertino_slider.py',
    'PYMODULE'),
   ('flet.core.cupertino_segmented_button',
-   'C:\\Users\\Gerencia '
-   'Ti\\Desktop\\Fetch_notas_py\\venv\\Lib\\site-packages\\flet\\core\\cupertino_segmented_button.py',
+   'D:\\PROYECTS\\PYTHON\\CONTROLADOR ESTADO '
+   'FACTURACION\\venv\\Lib\\site-packages\\flet\\core\\cupertino_segmented_button.py',
    'PYMODULE'),
   ('flet.core.cupertino_radio',
-   'C:\\Users\\Gerencia '
-   'Ti\\Desktop\\Fetch_notas_py\\venv\\Lib\\site-packages\\flet\\core\\cupertino_radio.py',
+   'D:\\PROYECTS\\PYTHON\\CONTROLADOR ESTADO '
+   'FACTURACION\\venv\\Lib\\site-packages\\flet\\core\\cupertino_radio.py',
    'PYMODULE'),
   ('flet.core.cupertino_picker',
-   'C:\\Users\\Gerencia '
-   'Ti\\Desktop\\Fetch_notas_py\\venv\\Lib\\site-packages\\flet\\core\\cupertino_picker.py',
+   'D:\\PROYECTS\\PYTHON\\CONTROLADOR ESTADO '
+   'FACTURACION\\venv\\Lib\\site-packages\\flet\\core\\cupertino_picker.py',
    'PYMODULE'),
   ('flet.core.cupertino_navigation_bar',
-   'C:\\Users\\Gerencia '
-   'Ti\\Desktop\\Fetch_notas_py\\venv\\Lib\\site-packages\\flet\\core\\cupertino_navigation_bar.py',
+   'D:\\PROYECTS\\PYTHON\\CONTROLADOR ESTADO '
+   'FACTURACION\\venv\\Lib\\site-packages\\flet\\core\\cupertino_navigation_bar.py',
    'PYMODULE'),
   ('flet.core.cupertino_list_tile',
-   'C:\\Users\\Gerencia '
-   'Ti\\Desktop\\Fetch_notas_py\\venv\\Lib\\site-packages\\flet\\core\\cupertino_list_tile.py',
+   'D:\\PROYECTS\\PYTHON\\CONTROLADOR ESTADO '
+   'FACTURACION\\venv\\Lib\\site-packages\\flet\\core\\cupertino_list_tile.py',
    'PYMODULE'),
   ('flet.core.cupertino_icons',
-   'C:\\Users\\Gerencia '
-   'Ti\\Desktop\\Fetch_notas_py\\venv\\Lib\\site-packages\\flet\\core\\cupertino_icons.py',
+   'D:\\PROYECTS\\PYTHON\\CONTROLADOR ESTADO '
+   'FACTURACION\\venv\\Lib\\site-packages\\flet\\core\\cupertino_icons.py',
    'PYMODULE'),
   ('flet.core.cupertino_filled_button',
-   'C:\\Users\\Gerencia '
-   'Ti\\Desktop\\Fetch_notas_py\\venv\\Lib\\site-packages\\flet\\core\\cupertino_filled_button.py',
+   'D:\\PROYECTS\\PYTHON\\CONTROLADOR ESTADO '
+   'FACTURACION\\venv\\Lib\\site-packages\\flet\\core\\cupertino_filled_button.py',
    'PYMODULE'),
   ('flet.core.cupertino_dialog_action',
-   'C:\\Users\\Gerencia '
-   'Ti\\Desktop\\Fetch_notas_py\\venv\\Lib\\site-packages\\flet\\core\\cupertino_dialog_action.py',
+   'D:\\PROYECTS\\PYTHON\\CONTROLADOR ESTADO '
+   'FACTURACION\\venv\\Lib\\site-packages\\flet\\core\\cupertino_dialog_action.py',
    'PYMODULE'),
   ('flet.core.cupertino_date_picker',
-   'C:\\Users\\Gerencia '
-   'Ti\\Desktop\\Fetch_notas_py\\venv\\Lib\\site-packages\\flet\\core\\cupertino_date_picker.py',
+   'D:\\PROYECTS\\PYTHON\\CONTROLADOR ESTADO '
+   'FACTURACION\\venv\\Lib\\site-packages\\flet\\core\\cupertino_date_picker.py',
    'PYMODULE'),
   ('flet.core.cupertino_context_menu_action',
-   'C:\\Users\\Gerencia '
-   'Ti\\Desktop\\Fetch_notas_py\\venv\\Lib\\site-packages\\flet\\core\\cupertino_context_menu_action.py',
+   'D:\\PROYECTS\\PYTHON\\CONTROLADOR ESTADO '
+   'FACTURACION\\venv\\Lib\\site-packages\\flet\\core\\cupertino_context_menu_action.py',
    'PYMODULE'),
   ('flet.core.cupertino_context_menu',
-   'C:\\Users\\Gerencia '
-   'Ti\\Desktop\\Fetch_notas_py\\venv\\Lib\\site-packages\\flet\\core\\cupertino_context_menu.py',
+   'D:\\PROYECTS\\PYTHON\\CONTROLADOR ESTADO '
+   'FACTURACION\\venv\\Lib\\site-packages\\flet\\core\\cupertino_context_menu.py',
    'PYMODULE'),
   ('flet.core.cupertino_colors',
-   'C:\\Users\\Gerencia '
-   'Ti\\Desktop\\Fetch_notas_py\\venv\\Lib\\site-packages\\flet\\core\\cupertino_colors.py',
+   'D:\\PROYECTS\\PYTHON\\CONTROLADOR ESTADO '
+   'FACTURACION\\venv\\Lib\\site-packages\\flet\\core\\cupertino_colors.py',
    'PYMODULE'),
   ('flet.core.cupertino_checkbox',
-   'C:\\Users\\Gerencia '
-   'Ti\\Desktop\\Fetch_notas_py\\venv\\Lib\\site-packages\\flet\\core\\cupertino_checkbox.py',
+   'D:\\PROYECTS\\PYTHON\\CONTROLADOR ESTADO '
+   'FACTURACION\\venv\\Lib\\site-packages\\flet\\core\\cupertino_checkbox.py',
    'PYMODULE'),
   ('flet.core.cupertino_button',
-   'C:\\Users\\Gerencia '
-   'Ti\\Desktop\\Fetch_notas_py\\venv\\Lib\\site-packages\\flet\\core\\cupertino_button.py',
+   'D:\\PROYECTS\\PYTHON\\CONTROLADOR ESTADO '
+   'FACTURACION\\venv\\Lib\\site-packages\\flet\\core\\cupertino_button.py',
    'PYMODULE'),
   ('flet.core.cupertino_bottom_sheet',
-   'C:\\Users\\Gerencia '
-   'Ti\\Desktop\\Fetch_notas_py\\venv\\Lib\\site-packages\\flet\\core\\cupertino_bottom_sheet.py',
+   'D:\\PROYECTS\\PYTHON\\CONTROLADOR ESTADO '
+   'FACTURACION\\venv\\Lib\\site-packages\\flet\\core\\cupertino_bottom_sheet.py',
    'PYMODULE'),
   ('flet.core.cupertino_app_bar',
-   'C:\\Users\\Gerencia '
-   'Ti\\Desktop\\Fetch_notas_py\\venv\\Lib\\site-packages\\flet\\core\\cupertino_app_bar.py',
+   'D:\\PROYECTS\\PYTHON\\CONTROLADOR ESTADO '
+   'FACTURACION\\venv\\Lib\\site-packages\\flet\\core\\cupertino_app_bar.py',
    'PYMODULE'),
   ('flet.core.cupertino_alert_dialog',
-   'C:\\Users\\Gerencia '
-   'Ti\\Desktop\\Fetch_notas_py\\venv\\Lib\\site-packages\\flet\\core\\cupertino_alert_dialog.py',
+   'D:\\PROYECTS\\PYTHON\\CONTROLADOR ESTADO '
+   'FACTURACION\\venv\\Lib\\site-packages\\flet\\core\\cupertino_alert_dialog.py',
    'PYMODULE'),
   ('flet.core.cupertino_activity_indicator',
-   'C:\\Users\\Gerencia '
-   'Ti\\Desktop\\Fetch_notas_py\\venv\\Lib\\site-packages\\flet\\core\\cupertino_activity_indicator.py',
+   'D:\\PROYECTS\\PYTHON\\CONTROLADOR ESTADO '
+   'FACTURACION\\venv\\Lib\\site-packages\\flet\\core\\cupertino_activity_indicator.py',
    'PYMODULE'),
   ('flet.core.cupertino_action_sheet_action',
-   'C:\\Users\\Gerencia '
-   'Ti\\Desktop\\Fetch_notas_py\\venv\\Lib\\site-packages\\flet\\core\\cupertino_action_sheet_action.py',
+   'D:\\PROYECTS\\PYTHON\\CONTROLADOR ESTADO '
+   'FACTURACION\\venv\\Lib\\site-packages\\flet\\core\\cupertino_action_sheet_action.py',
    'PYMODULE'),
   ('flet.core.cupertino_action_sheet',
-   'C:\\Users\\Gerencia '
-   'Ti\\Desktop\\Fetch_notas_py\\venv\\Lib\\site-packages\\flet\\core\\cupertino_action_sheet.py',
+   'D:\\PROYECTS\\PYTHON\\CONTROLADOR ESTADO '
+   'FACTURACION\\venv\\Lib\\site-packages\\flet\\core\\cupertino_action_sheet.py',
    'PYMODULE'),
   ('flet.core.control_event',
-   'C:\\Users\\Gerencia '
-   'Ti\\Desktop\\Fetch_notas_py\\venv\\Lib\\site-packages\\flet\\core\\control_event.py',
+   'D:\\PROYECTS\\PYTHON\\CONTROLADOR ESTADO '
+   'FACTURACION\\venv\\Lib\\site-packages\\flet\\core\\control_event.py',
    'PYMODULE'),
   ('flet.core.control',
-   'C:\\Users\\Gerencia '
-   'Ti\\Desktop\\Fetch_notas_py\\venv\\Lib\\site-packages\\flet\\core\\control.py',
+   'D:\\PROYECTS\\PYTHON\\CONTROLADOR ESTADO '
+   'FACTURACION\\venv\\Lib\\site-packages\\flet\\core\\control.py',
    'PYMODULE'),
   ('difflib',
    'C:\\Program '
    'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.12_3.12.2800.0_x64__qbz5n2kfra8p0\\Lib\\difflib.py',
    'PYMODULE'),
   ('flet.core.container',
-   'C:\\Users\\Gerencia '
-   'Ti\\Desktop\\Fetch_notas_py\\venv\\Lib\\site-packages\\flet\\core\\container.py',
+   'D:\\PROYECTS\\PYTHON\\CONTROLADOR ESTADO '
+   'FACTURACION\\venv\\Lib\\site-packages\\flet\\core\\container.py',
    'PYMODULE'),
   ('flet.core.column',
-   'C:\\Users\\Gerencia '
-   'Ti\\Desktop\\Fetch_notas_py\\venv\\Lib\\site-packages\\flet\\core\\column.py',
+   'D:\\PROYECTS\\PYTHON\\CONTROLADOR ESTADO '
+   'FACTURACION\\venv\\Lib\\site-packages\\flet\\core\\column.py',
    'PYMODULE'),
   ('flet.core.colors',
-   'C:\\Users\\Gerencia '
-   'Ti\\Desktop\\Fetch_notas_py\\venv\\Lib\\site-packages\\flet\\core\\colors.py',
+   'D:\\PROYECTS\\PYTHON\\CONTROLADOR ESTADO '
+   'FACTURACION\\venv\\Lib\\site-packages\\flet\\core\\colors.py',
    'PYMODULE'),
   ('flet.core.circle_avatar',
-   'C:\\Users\\Gerencia '
-   'Ti\\Desktop\\Fetch_notas_py\\venv\\Lib\\site-packages\\flet\\core\\circle_avatar.py',
+   'D:\\PROYECTS\\PYTHON\\CONTROLADOR ESTADO '
+   'FACTURACION\\venv\\Lib\\site-packages\\flet\\core\\circle_avatar.py',
    'PYMODULE'),
   ('flet.core.chip',
-   'C:\\Users\\Gerencia '
-   'Ti\\Desktop\\Fetch_notas_py\\venv\\Lib\\site-packages\\flet\\core\\chip.py',
+   'D:\\PROYECTS\\PYTHON\\CONTROLADOR ESTADO '
+   'FACTURACION\\venv\\Lib\\site-packages\\flet\\core\\chip.py',
    'PYMODULE'),
   ('flet.core.checkbox',
-   'C:\\Users\\Gerencia '
-   'Ti\\Desktop\\Fetch_notas_py\\venv\\Lib\\site-packages\\flet\\core\\checkbox.py',
+   'D:\\PROYECTS\\PYTHON\\CONTROLADOR ESTADO '
+   'FACTURACION\\venv\\Lib\\site-packages\\flet\\core\\checkbox.py',
    'PYMODULE'),
   ('flet.core.charts.pie_chart_section',
-   'C:\\Users\\Gerencia '
-   'Ti\\Desktop\\Fetch_notas_py\\venv\\Lib\\site-packages\\flet\\core\\charts\\pie_chart_section.py',
+   'D:\\PROYECTS\\PYTHON\\CONTROLADOR ESTADO '
+   'FACTURACION\\venv\\Lib\\site-packages\\flet\\core\\charts\\pie_chart_section.py',
    'PYMODULE'),
   ('flet.core.charts', '-', 'PYMODULE'),
   ('flet.core.charts.pie_chart',
-   'C:\\Users\\Gerencia '
-   'Ti\\Desktop\\Fetch_notas_py\\venv\\Lib\\site-packages\\flet\\core\\charts\\pie_chart.py',
+   'D:\\PROYECTS\\PYTHON\\CONTROLADOR ESTADO '
+   'FACTURACION\\venv\\Lib\\site-packages\\flet\\core\\charts\\pie_chart.py',
    'PYMODULE'),
   ('flet.core.charts.line_chart_data_point',
-   'C:\\Users\\Gerencia '
-   'Ti\\Desktop\\Fetch_notas_py\\venv\\Lib\\site-packages\\flet\\core\\charts\\line_chart_data_point.py',
+   'D:\\PROYECTS\\PYTHON\\CONTROLADOR ESTADO '
+   'FACTURACION\\venv\\Lib\\site-packages\\flet\\core\\charts\\line_chart_data_point.py',
    'PYMODULE'),
   ('flet.core.charts.line_chart_data',
-   'C:\\Users\\Gerencia '
-   'Ti\\Desktop\\Fetch_notas_py\\venv\\Lib\\site-packages\\flet\\core\\charts\\line_chart_data.py',
+   'D:\\PROYECTS\\PYTHON\\CONTROLADOR ESTADO '
+   'FACTURACION\\venv\\Lib\\site-packages\\flet\\core\\charts\\line_chart_data.py',
    'PYMODULE'),
   ('flet.core.charts.line_chart',
-   'C:\\Users\\Gerencia '
-   'Ti\\Desktop\\Fetch_notas_py\\venv\\Lib\\site-packages\\flet\\core\\charts\\line_chart.py',
+   'D:\\PROYECTS\\PYTHON\\CONTROLADOR ESTADO '
+   'FACTURACION\\venv\\Lib\\site-packages\\flet\\core\\charts\\line_chart.py',
    'PYMODULE'),
   ('flet.core.charts.chart_point_shape',
-   'C:\\Users\\Gerencia '
-   'Ti\\Desktop\\Fetch_notas_py\\venv\\Lib\\site-packages\\flet\\core\\charts\\chart_point_shape.py',
+   'D:\\PROYECTS\\PYTHON\\CONTROLADOR ESTADO '
+   'FACTURACION\\venv\\Lib\\site-packages\\flet\\core\\charts\\chart_point_shape.py',
    'PYMODULE'),
   ('flet.core.charts.chart_point_line',
-   'C:\\Users\\Gerencia '
-   'Ti\\Desktop\\Fetch_notas_py\\venv\\Lib\\site-packages\\flet\\core\\charts\\chart_point_line.py',
+   'D:\\PROYECTS\\PYTHON\\CONTROLADOR ESTADO '
+   'FACTURACION\\venv\\Lib\\site-packages\\flet\\core\\charts\\chart_point_line.py',
    'PYMODULE'),
   ('flet.core.charts.chart_grid_lines',
-   'C:\\Users\\Gerencia '
-   'Ti\\Desktop\\Fetch_notas_py\\venv\\Lib\\site-packages\\flet\\core\\charts\\chart_grid_lines.py',
+   'D:\\PROYECTS\\PYTHON\\CONTROLADOR ESTADO '
+   'FACTURACION\\venv\\Lib\\site-packages\\flet\\core\\charts\\chart_grid_lines.py',
    'PYMODULE'),
   ('flet.core.charts.chart_axis_label',
-   'C:\\Users\\Gerencia '
-   'Ti\\Desktop\\Fetch_notas_py\\venv\\Lib\\site-packages\\flet\\core\\charts\\chart_axis_label.py',
+   'D:\\PROYECTS\\PYTHON\\CONTROLADOR ESTADO '
+   'FACTURACION\\venv\\Lib\\site-packages\\flet\\core\\charts\\chart_axis_label.py',
    'PYMODULE'),
   ('flet.core.charts.chart_axis',
-   'C:\\Users\\Gerencia '
-   'Ti\\Desktop\\Fetch_notas_py\\venv\\Lib\\site-packages\\flet\\core\\charts\\chart_axis.py',
+   'D:\\PROYECTS\\PYTHON\\CONTROLADOR ESTADO '
+   'FACTURACION\\venv\\Lib\\site-packages\\flet\\core\\charts\\chart_axis.py',
    'PYMODULE'),
   ('flet.core.charts.bar_chart_rod_stack_item',
-   'C:\\Users\\Gerencia '
-   'Ti\\Desktop\\Fetch_notas_py\\venv\\Lib\\site-packages\\flet\\core\\charts\\bar_chart_rod_stack_item.py',
+   'D:\\PROYECTS\\PYTHON\\CONTROLADOR ESTADO '
+   'FACTURACION\\venv\\Lib\\site-packages\\flet\\core\\charts\\bar_chart_rod_stack_item.py',
    'PYMODULE'),
   ('flet.core.charts.bar_chart_rod',
-   'C:\\Users\\Gerencia '
-   'Ti\\Desktop\\Fetch_notas_py\\venv\\Lib\\site-packages\\flet\\core\\charts\\bar_chart_rod.py',
+   'D:\\PROYECTS\\PYTHON\\CONTROLADOR ESTADO '
+   'FACTURACION\\venv\\Lib\\site-packages\\flet\\core\\charts\\bar_chart_rod.py',
    'PYMODULE'),
   ('flet.core.charts.bar_chart_group',
-   'C:\\Users\\Gerencia '
-   'Ti\\Desktop\\Fetch_notas_py\\venv\\Lib\\site-packages\\flet\\core\\charts\\bar_chart_group.py',
+   'D:\\PROYECTS\\PYTHON\\CONTROLADOR ESTADO '
+   'FACTURACION\\venv\\Lib\\site-packages\\flet\\core\\charts\\bar_chart_group.py',
    'PYMODULE'),
   ('flet.core.charts.bar_chart',
-   'C:\\Users\\Gerencia '
-   'Ti\\Desktop\\Fetch_notas_py\\venv\\Lib\\site-packages\\flet\\core\\charts\\bar_chart.py',
+   'D:\\PROYECTS\\PYTHON\\CONTROLADOR ESTADO '
+   'FACTURACION\\venv\\Lib\\site-packages\\flet\\core\\charts\\bar_chart.py',
    'PYMODULE'),
   ('flet.core.card',
-   'C:\\Users\\Gerencia '
-   'Ti\\Desktop\\Fetch_notas_py\\venv\\Lib\\site-packages\\flet\\core\\card.py',
+   'D:\\PROYECTS\\PYTHON\\CONTROLADOR ESTADO '
+   'FACTURACION\\venv\\Lib\\site-packages\\flet\\core\\card.py',
    'PYMODULE'),
   ('flet.core.buttons',
-   'C:\\Users\\Gerencia '
-   'Ti\\Desktop\\Fetch_notas_py\\venv\\Lib\\site-packages\\flet\\core\\buttons.py',
+   'D:\\PROYECTS\\PYTHON\\CONTROLADOR ESTADO '
+   'FACTURACION\\venv\\Lib\\site-packages\\flet\\core\\buttons.py',
    'PYMODULE'),
   ('flet.core.button',
-   'C:\\Users\\Gerencia '
-   'Ti\\Desktop\\Fetch_notas_py\\venv\\Lib\\site-packages\\flet\\core\\button.py',
+   'D:\\PROYECTS\\PYTHON\\CONTROLADOR ESTADO '
+   'FACTURACION\\venv\\Lib\\site-packages\\flet\\core\\button.py',
    'PYMODULE'),
   ('flet.core.box',
-   'C:\\Users\\Gerencia '
-   'Ti\\Desktop\\Fetch_notas_py\\venv\\Lib\\site-packages\\flet\\core\\box.py',
+   'D:\\PROYECTS\\PYTHON\\CONTROLADOR ESTADO '
+   'FACTURACION\\venv\\Lib\\site-packages\\flet\\core\\box.py',
    'PYMODULE'),
   ('flet.core.bottom_sheet',
-   'C:\\Users\\Gerencia '
-   'Ti\\Desktop\\Fetch_notas_py\\venv\\Lib\\site-packages\\flet\\core\\bottom_sheet.py',
+   'D:\\PROYECTS\\PYTHON\\CONTROLADOR ESTADO '
+   'FACTURACION\\venv\\Lib\\site-packages\\flet\\core\\bottom_sheet.py',
    'PYMODULE'),
   ('flet.core.bottom_app_bar',
-   'C:\\Users\\Gerencia '
-   'Ti\\Desktop\\Fetch_notas_py\\venv\\Lib\\site-packages\\flet\\core\\bottom_app_bar.py',
+   'D:\\PROYECTS\\PYTHON\\CONTROLADOR ESTADO '
+   'FACTURACION\\venv\\Lib\\site-packages\\flet\\core\\bottom_app_bar.py',
    'PYMODULE'),
   ('flet.core.blur',
-   'C:\\Users\\Gerencia '
-   'Ti\\Desktop\\Fetch_notas_py\\venv\\Lib\\site-packages\\flet\\core\\blur.py',
+   'D:\\PROYECTS\\PYTHON\\CONTROLADOR ESTADO '
+   'FACTURACION\\venv\\Lib\\site-packages\\flet\\core\\blur.py',
    'PYMODULE'),
   ('flet.core.banner',
-   'C:\\Users\\Gerencia '
-   'Ti\\Desktop\\Fetch_notas_py\\venv\\Lib\\site-packages\\flet\\core\\banner.py',
+   'D:\\PROYECTS\\PYTHON\\CONTROLADOR ESTADO '
+   'FACTURACION\\venv\\Lib\\site-packages\\flet\\core\\banner.py',
    'PYMODULE'),
   ('flet.core.badge',
-   'C:\\Users\\Gerencia '
-   'Ti\\Desktop\\Fetch_notas_py\\venv\\Lib\\site-packages\\flet\\core\\badge.py',
+   'D:\\PROYECTS\\PYTHON\\CONTROLADOR ESTADO '
+   'FACTURACION\\venv\\Lib\\site-packages\\flet\\core\\badge.py',
    'PYMODULE'),
   ('flet.core.autofill_group',
-   'C:\\Users\\Gerencia '
-   'Ti\\Desktop\\Fetch_notas_py\\venv\\Lib\\site-packages\\flet\\core\\autofill_group.py',
+   'D:\\PROYECTS\\PYTHON\\CONTROLADOR ESTADO '
+   'FACTURACION\\venv\\Lib\\site-packages\\flet\\core\\autofill_group.py',
    'PYMODULE'),
   ('flet.core.auto_complete',
-   'C:\\Users\\Gerencia '
-   'Ti\\Desktop\\Fetch_notas_py\\venv\\Lib\\site-packages\\flet\\core\\auto_complete.py',
+   'D:\\PROYECTS\\PYTHON\\CONTROLADOR ESTADO '
+   'FACTURACION\\venv\\Lib\\site-packages\\flet\\core\\auto_complete.py',
    'PYMODULE'),
   ('flet.core.audio_recorder',
-   'C:\\Users\\Gerencia '
-   'Ti\\Desktop\\Fetch_notas_py\\venv\\Lib\\site-packages\\flet\\core\\audio_recorder.py',
+   'D:\\PROYECTS\\PYTHON\\CONTROLADOR ESTADO '
+   'FACTURACION\\venv\\Lib\\site-packages\\flet\\core\\audio_recorder.py',
    'PYMODULE'),
   ('flet.core.audio',
-   'C:\\Users\\Gerencia '
-   'Ti\\Desktop\\Fetch_notas_py\\venv\\Lib\\site-packages\\flet\\core\\audio.py',
+   'D:\\PROYECTS\\PYTHON\\CONTROLADOR ESTADO '
+   'FACTURACION\\venv\\Lib\\site-packages\\flet\\core\\audio.py',
    'PYMODULE'),
   ('flet.core.app_bar',
-   'C:\\Users\\Gerencia '
-   'Ti\\Desktop\\Fetch_notas_py\\venv\\Lib\\site-packages\\flet\\core\\app_bar.py',
+   'D:\\PROYECTS\\PYTHON\\CONTROLADOR ESTADO '
+   'FACTURACION\\venv\\Lib\\site-packages\\flet\\core\\app_bar.py',
    'PYMODULE'),
   ('flet.core.animation',
-   'C:\\Users\\Gerencia '
-   'Ti\\Desktop\\Fetch_notas_py\\venv\\Lib\\site-packages\\flet\\core\\animation.py',
+   'D:\\PROYECTS\\PYTHON\\CONTROLADOR ESTADO '
+   'FACTURACION\\venv\\Lib\\site-packages\\flet\\core\\animation.py',
    'PYMODULE'),
   ('flet.core.animated_switcher',
-   'C:\\Users\\Gerencia '
-   'Ti\\Desktop\\Fetch_notas_py\\venv\\Lib\\site-packages\\flet\\core\\animated_switcher.py',
+   'D:\\PROYECTS\\PYTHON\\CONTROLADOR ESTADO '
+   'FACTURACION\\venv\\Lib\\site-packages\\flet\\core\\animated_switcher.py',
    'PYMODULE'),
   ('flet.core.alert_dialog',
-   'C:\\Users\\Gerencia '
-   'Ti\\Desktop\\Fetch_notas_py\\venv\\Lib\\site-packages\\flet\\core\\alert_dialog.py',
+   'D:\\PROYECTS\\PYTHON\\CONTROLADOR ESTADO '
+   'FACTURACION\\venv\\Lib\\site-packages\\flet\\core\\alert_dialog.py',
    'PYMODULE'),
   ('flet.core.adaptive_control',
-   'C:\\Users\\Gerencia '
-   'Ti\\Desktop\\Fetch_notas_py\\venv\\Lib\\site-packages\\flet\\core\\adaptive_control.py',
+   'D:\\PROYECTS\\PYTHON\\CONTROLADOR ESTADO '
+   'FACTURACION\\venv\\Lib\\site-packages\\flet\\core\\adaptive_control.py',
    'PYMODULE'),
   ('flet.core.size',
-   'C:\\Users\\Gerencia '
-   'Ti\\Desktop\\Fetch_notas_py\\venv\\Lib\\site-packages\\flet\\core\\size.py',
+   'D:\\PROYECTS\\PYTHON\\CONTROLADOR ESTADO '
+   'FACTURACION\\venv\\Lib\\site-packages\\flet\\core\\size.py',
    'PYMODULE'),
   ('flet.core.painting',
-   'C:\\Users\\Gerencia '
-   'Ti\\Desktop\\Fetch_notas_py\\venv\\Lib\\site-packages\\flet\\core\\painting.py',
+   'D:\\PROYECTS\\PYTHON\\CONTROLADOR ESTADO '
+   'FACTURACION\\venv\\Lib\\site-packages\\flet\\core\\painting.py',
    'PYMODULE'),
   ('flet.core.padding',
-   'C:\\Users\\Gerencia '
-   'Ti\\Desktop\\Fetch_notas_py\\venv\\Lib\\site-packages\\flet\\core\\padding.py',
+   'D:\\PROYECTS\\PYTHON\\CONTROLADOR ESTADO '
+   'FACTURACION\\venv\\Lib\\site-packages\\flet\\core\\padding.py',
    'PYMODULE'),
   ('flet.core.margin',
-   'C:\\Users\\Gerencia '
-   'Ti\\Desktop\\Fetch_notas_py\\venv\\Lib\\site-packages\\flet\\core\\margin.py',
+   'D:\\PROYECTS\\PYTHON\\CONTROLADOR ESTADO '
+   'FACTURACION\\venv\\Lib\\site-packages\\flet\\core\\margin.py',
    'PYMODULE'),
   ('flet.core.dropdownm2',
-   'C:\\Users\\Gerencia '
-   'Ti\\Desktop\\Fetch_notas_py\\venv\\Lib\\site-packages\\flet\\core\\dropdownm2.py',
+   'D:\\PROYECTS\\PYTHON\\CONTROLADOR ESTADO '
+   'FACTURACION\\venv\\Lib\\site-packages\\flet\\core\\dropdownm2.py',
    'PYMODULE'),
   ('flet.core.dropdown',
-   'C:\\Users\\Gerencia '
-   'Ti\\Desktop\\Fetch_notas_py\\venv\\Lib\\site-packages\\flet\\core\\dropdown.py',
+   'D:\\PROYECTS\\PYTHON\\CONTROLADOR ESTADO '
+   'FACTURACION\\venv\\Lib\\site-packages\\flet\\core\\dropdown.py',
    'PYMODULE'),
   ('flet.core.border_radius',
-   'C:\\Users\\Gerencia '
-   'Ti\\Desktop\\Fetch_notas_py\\venv\\Lib\\site-packages\\flet\\core\\border_radius.py',
+   'D:\\PROYECTS\\PYTHON\\CONTROLADOR ESTADO '
+   'FACTURACION\\venv\\Lib\\site-packages\\flet\\core\\border_radius.py',
    'PYMODULE'),
   ('flet.core.border',
-   'C:\\Users\\Gerencia '
-   'Ti\\Desktop\\Fetch_notas_py\\venv\\Lib\\site-packages\\flet\\core\\border.py',
+   'D:\\PROYECTS\\PYTHON\\CONTROLADOR ESTADO '
+   'FACTURACION\\venv\\Lib\\site-packages\\flet\\core\\border.py',
    'PYMODULE'),
   ('flet.core.alignment',
-   'C:\\Users\\Gerencia '
-   'Ti\\Desktop\\Fetch_notas_py\\venv\\Lib\\site-packages\\flet\\core\\alignment.py',
+   'D:\\PROYECTS\\PYTHON\\CONTROLADOR ESTADO '
+   'FACTURACION\\venv\\Lib\\site-packages\\flet\\core\\alignment.py',
    'PYMODULE'),
   ('flet.core', '-', 'PYMODULE'),
   ('flet.app',
-   'C:\\Users\\Gerencia '
-   'Ti\\Desktop\\Fetch_notas_py\\venv\\Lib\\site-packages\\flet\\app.py',
+   'D:\\PROYECTS\\PYTHON\\CONTROLADOR ESTADO '
+   'FACTURACION\\venv\\Lib\\site-packages\\flet\\app.py',
    'PYMODULE'),
   ('flet.pyodide_connection',
-   'C:\\Users\\Gerencia '
-   'Ti\\Desktop\\Fetch_notas_py\\venv\\Lib\\site-packages\\flet\\pyodide_connection.py',
+   'D:\\PROYECTS\\PYTHON\\CONTROLADOR ESTADO '
+   'FACTURACION\\venv\\Lib\\site-packages\\flet\\pyodide_connection.py',
    'PYMODULE'),
   ('flet.core.local_connection',
-   'C:\\Users\\Gerencia '
-   'Ti\\Desktop\\Fetch_notas_py\\venv\\Lib\\site-packages\\flet\\core\\local_connection.py',
+   'D:\\PROYECTS\\PYTHON\\CONTROLADOR ESTADO '
+   'FACTURACION\\venv\\Lib\\site-packages\\flet\\core\\local_connection.py',
    'PYMODULE'),
   ('flet.flet_socket_server',
-   'C:\\Users\\Gerencia '
-   'Ti\\Desktop\\Fetch_notas_py\\venv\\Lib\\site-packages\\flet\\flet_socket_server.py',
+   'D:\\PROYECTS\\PYTHON\\CONTROLADOR ESTADO '
+   'FACTURACION\\venv\\Lib\\site-packages\\flet\\flet_socket_server.py',
    'PYMODULE'),
   ('flet_desktop',
-   'C:\\Users\\Gerencia '
-   'Ti\\Desktop\\Fetch_notas_py\\venv\\Lib\\site-packages\\flet_desktop\\__init__.py',
+   'D:\\PROYECTS\\PYTHON\\CONTROLADOR ESTADO '
+   'FACTURACION\\venv\\Lib\\site-packages\\flet_desktop\\__init__.py',
    'PYMODULE'),
   ('flet_desktop.version',
-   'C:\\Users\\Gerencia '
-   'Ti\\Desktop\\Fetch_notas_py\\venv\\Lib\\site-packages\\flet_desktop\\version.py',
+   'D:\\PROYECTS\\PYTHON\\CONTROLADOR ESTADO '
+   'FACTURACION\\venv\\Lib\\site-packages\\flet_desktop\\version.py',
    'PYMODULE'),
   ('flet.utils.pip',
-   'C:\\Users\\Gerencia '
-   'Ti\\Desktop\\Fetch_notas_py\\venv\\Lib\\site-packages\\flet\\utils\\pip.py',
+   'D:\\PROYECTS\\PYTHON\\CONTROLADOR ESTADO '
+   'FACTURACION\\venv\\Lib\\site-packages\\flet\\utils\\pip.py',
    'PYMODULE'),
   ('pymssql',
-   'C:\\Users\\Gerencia '
-   'Ti\\Desktop\\Fetch_notas_py\\venv\\Lib\\site-packages\\pymssql\\__init__.py',
+   'D:\\PROYECTS\\PYTHON\\CONTROLADOR ESTADO '
+   'FACTURACION\\venv\\Lib\\site-packages\\pymssql\\__init__.py',
    'PYMODULE'),
   ('pymssql.exceptions',
-   'C:\\Users\\Gerencia '
-   'Ti\\Desktop\\Fetch_notas_py\\venv\\Lib\\site-packages\\pymssql\\exceptions.py',
+   'D:\\PROYECTS\\PYTHON\\CONTROLADOR ESTADO '
+   'FACTURACION\\venv\\Lib\\site-packages\\pymssql\\exceptions.py',
    'PYMODULE'),
   ('asyncio',
    'C:\\Program '
@@ -2320,40 +2320,32 @@
    'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.12_3.12.2800.0_x64__qbz5n2kfra8p0\\DLLs\\_uuid.pyd',
    'EXTENSION'),
   ('pymssql\\_pymssql.cp312-win_amd64.pyd',
-   'C:\\Users\\Gerencia '
-   'Ti\\Desktop\\Fetch_notas_py\\venv\\Lib\\site-packages\\pymssql\\_pymssql.cp312-win_amd64.pyd',
+   'D:\\PROYECTS\\PYTHON\\CONTROLADOR ESTADO '
+   'FACTURACION\\venv\\Lib\\site-packages\\pymssql\\_pymssql.cp312-win_amd64.pyd',
    'EXTENSION'),
   ('pymssql\\_mssql.cp312-win_amd64.pyd',
-   'C:\\Users\\Gerencia '
-   'Ti\\Desktop\\Fetch_notas_py\\venv\\Lib\\site-packages\\pymssql\\_mssql.cp312-win_amd64.pyd',
+   'D:\\PROYECTS\\PYTHON\\CONTROLADOR ESTADO '
+   'FACTURACION\\venv\\Lib\\site-packages\\pymssql\\_mssql.cp312-win_amd64.pyd',
    'EXTENSION'),
   ('_overlapped.pyd',
    'C:\\Program '
    'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.12_3.12.2800.0_x64__qbz5n2kfra8p0\\DLLs\\_overlapped.pyd',
    'EXTENSION'),
-  ('api-ms-win-crt-string-l1-1-0.dll',
-   'C:\\Program Files\\Eclipse '
-   'Adoptium\\jdk-11.0.18.10-hotspot\\bin\\api-ms-win-crt-string-l1-1-0.dll',
-   'BINARY'),
-  ('api-ms-win-crt-conio-l1-1-0.dll',
-   'C:\\Program Files\\Eclipse '
-   'Adoptium\\jdk-11.0.18.10-hotspot\\bin\\api-ms-win-crt-conio-l1-1-0.dll',
-   'BINARY'),
   ('api-ms-win-crt-time-l1-1-0.dll',
    'C:\\Program Files\\Eclipse '
    'Adoptium\\jdk-11.0.18.10-hotspot\\bin\\api-ms-win-crt-time-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-crt-environment-l1-1-0.dll',
+   'C:\\Program Files\\Eclipse '
+   'Adoptium\\jdk-11.0.18.10-hotspot\\bin\\api-ms-win-crt-environment-l1-1-0.dll',
    'BINARY'),
   ('VCRUNTIME140.dll',
    'C:\\Program '
    'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.12_3.12.2800.0_x64__qbz5n2kfra8p0\\VCRUNTIME140.dll',
    'BINARY'),
-  ('api-ms-win-crt-locale-l1-1-0.dll',
+  ('api-ms-win-crt-conio-l1-1-0.dll',
    'C:\\Program Files\\Eclipse '
-   'Adoptium\\jdk-11.0.18.10-hotspot\\bin\\api-ms-win-crt-locale-l1-1-0.dll',
-   'BINARY'),
-  ('api-ms-win-crt-heap-l1-1-0.dll',
-   'C:\\Program Files\\Eclipse '
-   'Adoptium\\jdk-11.0.18.10-hotspot\\bin\\api-ms-win-crt-heap-l1-1-0.dll',
+   'Adoptium\\jdk-11.0.18.10-hotspot\\bin\\api-ms-win-crt-conio-l1-1-0.dll',
    'BINARY'),
   ('api-ms-win-crt-stdio-l1-1-0.dll',
    'C:\\Program Files\\Eclipse '
@@ -2363,6 +2355,14 @@
    'C:\\Program Files\\Eclipse '
    'Adoptium\\jdk-11.0.18.10-hotspot\\bin\\api-ms-win-crt-process-l1-1-0.dll',
    'BINARY'),
+  ('api-ms-win-crt-runtime-l1-1-0.dll',
+   'C:\\Program Files\\Eclipse '
+   'Adoptium\\jdk-11.0.18.10-hotspot\\bin\\api-ms-win-crt-runtime-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-crt-string-l1-1-0.dll',
+   'C:\\Program Files\\Eclipse '
+   'Adoptium\\jdk-11.0.18.10-hotspot\\bin\\api-ms-win-crt-string-l1-1-0.dll',
+   'BINARY'),
   ('api-ms-win-crt-filesystem-l1-1-0.dll',
    'C:\\Program Files\\Eclipse '
    'Adoptium\\jdk-11.0.18.10-hotspot\\bin\\api-ms-win-crt-filesystem-l1-1-0.dll',
@@ -2371,17 +2371,17 @@
    'C:\\Program Files\\Eclipse '
    'Adoptium\\jdk-11.0.18.10-hotspot\\bin\\api-ms-win-crt-convert-l1-1-0.dll',
    'BINARY'),
-  ('api-ms-win-crt-environment-l1-1-0.dll',
-   'C:\\Program Files\\Eclipse '
-   'Adoptium\\jdk-11.0.18.10-hotspot\\bin\\api-ms-win-crt-environment-l1-1-0.dll',
-   'BINARY'),
   ('api-ms-win-crt-math-l1-1-0.dll',
    'C:\\Program Files\\Eclipse '
    'Adoptium\\jdk-11.0.18.10-hotspot\\bin\\api-ms-win-crt-math-l1-1-0.dll',
    'BINARY'),
-  ('api-ms-win-crt-runtime-l1-1-0.dll',
+  ('api-ms-win-crt-heap-l1-1-0.dll',
    'C:\\Program Files\\Eclipse '
-   'Adoptium\\jdk-11.0.18.10-hotspot\\bin\\api-ms-win-crt-runtime-l1-1-0.dll',
+   'Adoptium\\jdk-11.0.18.10-hotspot\\bin\\api-ms-win-crt-heap-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-crt-locale-l1-1-0.dll',
+   'C:\\Program Files\\Eclipse '
+   'Adoptium\\jdk-11.0.18.10-hotspot\\bin\\api-ms-win-crt-locale-l1-1-0.dll',
    'BINARY'),
   ('libcrypto-3.dll',
    'C:\\Program '
@@ -2407,81 +2407,25 @@
    'C:\\Program Files\\Eclipse '
    'Adoptium\\jdk-11.0.18.10-hotspot\\bin\\ucrtbase.dll',
    'BINARY'),
+  ('api-ms-win-core-string-l1-1-0.dll',
+   'C:\\Program Files\\Eclipse '
+   'Adoptium\\jdk-11.0.18.10-hotspot\\bin\\api-ms-win-core-string-l1-1-0.dll',
+   'BINARY'),
   ('api-ms-win-core-synch-l1-1-0.dll',
    'C:\\Program Files\\Eclipse '
    'Adoptium\\jdk-11.0.18.10-hotspot\\bin\\api-ms-win-core-synch-l1-1-0.dll',
-   'BINARY'),
-  ('api-ms-win-core-processthreads-l1-1-0.dll',
-   'C:\\Program Files\\Eclipse '
-   'Adoptium\\jdk-11.0.18.10-hotspot\\bin\\api-ms-win-core-processthreads-l1-1-0.dll',
-   'BINARY'),
-  ('api-ms-win-core-console-l1-1-0.dll',
-   'C:\\Program Files\\Eclipse '
-   'Adoptium\\jdk-11.0.18.10-hotspot\\bin\\api-ms-win-core-console-l1-1-0.dll',
-   'BINARY'),
-  ('api-ms-win-core-memory-l1-1-0.dll',
-   'C:\\Program Files\\Eclipse '
-   'Adoptium\\jdk-11.0.18.10-hotspot\\bin\\api-ms-win-core-memory-l1-1-0.dll',
-   'BINARY'),
-  ('api-ms-win-core-debug-l1-1-0.dll',
-   'C:\\Program Files\\Eclipse '
-   'Adoptium\\jdk-11.0.18.10-hotspot\\bin\\api-ms-win-core-debug-l1-1-0.dll',
-   'BINARY'),
-  ('api-ms-win-core-file-l1-2-0.dll',
-   'C:\\Program Files\\Eclipse '
-   'Adoptium\\jdk-11.0.18.10-hotspot\\bin\\api-ms-win-core-file-l1-2-0.dll',
-   'BINARY'),
-  ('api-ms-win-core-file-l1-1-0.dll',
-   'C:\\Program Files\\Eclipse '
-   'Adoptium\\jdk-11.0.18.10-hotspot\\bin\\api-ms-win-core-file-l1-1-0.dll',
    'BINARY'),
   ('api-ms-win-core-rtlsupport-l1-1-0.dll',
    'C:\\Program Files\\Eclipse '
    'Adoptium\\jdk-11.0.18.10-hotspot\\bin\\api-ms-win-core-rtlsupport-l1-1-0.dll',
    'BINARY'),
-  ('api-ms-win-core-timezone-l1-1-0.dll',
+  ('api-ms-win-core-util-l1-1-0.dll',
    'C:\\Program Files\\Eclipse '
-   'Adoptium\\jdk-11.0.18.10-hotspot\\bin\\api-ms-win-core-timezone-l1-1-0.dll',
-   'BINARY'),
-  ('api-ms-win-core-datetime-l1-1-0.dll',
-   'C:\\Program Files\\Eclipse '
-   'Adoptium\\jdk-11.0.18.10-hotspot\\bin\\api-ms-win-core-datetime-l1-1-0.dll',
-   'BINARY'),
-  ('api-ms-win-core-localization-l1-2-0.dll',
-   'C:\\Program Files\\Eclipse '
-   'Adoptium\\jdk-11.0.18.10-hotspot\\bin\\api-ms-win-core-localization-l1-2-0.dll',
-   'BINARY'),
-  ('api-ms-win-core-sysinfo-l1-1-0.dll',
-   'C:\\Program Files\\Eclipse '
-   'Adoptium\\jdk-11.0.18.10-hotspot\\bin\\api-ms-win-core-sysinfo-l1-1-0.dll',
-   'BINARY'),
-  ('api-ms-win-core-errorhandling-l1-1-0.dll',
-   'C:\\Program Files\\Eclipse '
-   'Adoptium\\jdk-11.0.18.10-hotspot\\bin\\api-ms-win-core-errorhandling-l1-1-0.dll',
-   'BINARY'),
-  ('api-ms-win-core-string-l1-1-0.dll',
-   'C:\\Program Files\\Eclipse '
-   'Adoptium\\jdk-11.0.18.10-hotspot\\bin\\api-ms-win-core-string-l1-1-0.dll',
+   'Adoptium\\jdk-11.0.18.10-hotspot\\bin\\api-ms-win-core-util-l1-1-0.dll',
    'BINARY'),
   ('api-ms-win-core-profile-l1-1-0.dll',
    'C:\\Program Files\\Eclipse '
    'Adoptium\\jdk-11.0.18.10-hotspot\\bin\\api-ms-win-core-profile-l1-1-0.dll',
-   'BINARY'),
-  ('api-ms-win-core-handle-l1-1-0.dll',
-   'C:\\Program Files\\Eclipse '
-   'Adoptium\\jdk-11.0.18.10-hotspot\\bin\\api-ms-win-core-handle-l1-1-0.dll',
-   'BINARY'),
-  ('api-ms-win-core-interlocked-l1-1-0.dll',
-   'C:\\Program Files\\Eclipse '
-   'Adoptium\\jdk-11.0.18.10-hotspot\\bin\\api-ms-win-core-interlocked-l1-1-0.dll',
-   'BINARY'),
-  ('api-ms-win-core-file-l2-1-0.dll',
-   'C:\\Program Files\\Eclipse '
-   'Adoptium\\jdk-11.0.18.10-hotspot\\bin\\api-ms-win-core-file-l2-1-0.dll',
-   'BINARY'),
-  ('api-ms-win-core-processthreads-l1-1-1.dll',
-   'C:\\Program Files\\Eclipse '
-   'Adoptium\\jdk-11.0.18.10-hotspot\\bin\\api-ms-win-core-processthreads-l1-1-1.dll',
    'BINARY'),
   ('api-ms-win-core-namedpipe-l1-1-0.dll',
    'C:\\Program Files\\Eclipse '
@@ -2491,33 +2435,89 @@
    'C:\\Program Files\\Eclipse '
    'Adoptium\\jdk-11.0.18.10-hotspot\\bin\\api-ms-win-core-synch-l1-2-0.dll',
    'BINARY'),
-  ('api-ms-win-core-util-l1-1-0.dll',
+  ('api-ms-win-core-debug-l1-1-0.dll',
    'C:\\Program Files\\Eclipse '
-   'Adoptium\\jdk-11.0.18.10-hotspot\\bin\\api-ms-win-core-util-l1-1-0.dll',
+   'Adoptium\\jdk-11.0.18.10-hotspot\\bin\\api-ms-win-core-debug-l1-1-0.dll',
    'BINARY'),
-  ('api-ms-win-core-libraryloader-l1-1-0.dll',
+  ('api-ms-win-core-datetime-l1-1-0.dll',
    'C:\\Program Files\\Eclipse '
-   'Adoptium\\jdk-11.0.18.10-hotspot\\bin\\api-ms-win-core-libraryloader-l1-1-0.dll',
+   'Adoptium\\jdk-11.0.18.10-hotspot\\bin\\api-ms-win-core-datetime-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-core-file-l1-1-0.dll',
+   'C:\\Program Files\\Eclipse '
+   'Adoptium\\jdk-11.0.18.10-hotspot\\bin\\api-ms-win-core-file-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-core-interlocked-l1-1-0.dll',
+   'C:\\Program Files\\Eclipse '
+   'Adoptium\\jdk-11.0.18.10-hotspot\\bin\\api-ms-win-core-interlocked-l1-1-0.dll',
    'BINARY'),
   ('api-ms-win-core-processenvironment-l1-1-0.dll',
    'C:\\Program Files\\Eclipse '
    'Adoptium\\jdk-11.0.18.10-hotspot\\bin\\api-ms-win-core-processenvironment-l1-1-0.dll',
    'BINARY'),
+  ('api-ms-win-core-processthreads-l1-1-1.dll',
+   'C:\\Program Files\\Eclipse '
+   'Adoptium\\jdk-11.0.18.10-hotspot\\bin\\api-ms-win-core-processthreads-l1-1-1.dll',
+   'BINARY'),
+  ('api-ms-win-core-errorhandling-l1-1-0.dll',
+   'C:\\Program Files\\Eclipse '
+   'Adoptium\\jdk-11.0.18.10-hotspot\\bin\\api-ms-win-core-errorhandling-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-core-localization-l1-2-0.dll',
+   'C:\\Program Files\\Eclipse '
+   'Adoptium\\jdk-11.0.18.10-hotspot\\bin\\api-ms-win-core-localization-l1-2-0.dll',
+   'BINARY'),
+  ('api-ms-win-core-file-l2-1-0.dll',
+   'C:\\Program Files\\Eclipse '
+   'Adoptium\\jdk-11.0.18.10-hotspot\\bin\\api-ms-win-core-file-l2-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-core-processthreads-l1-1-0.dll',
+   'C:\\Program Files\\Eclipse '
+   'Adoptium\\jdk-11.0.18.10-hotspot\\bin\\api-ms-win-core-processthreads-l1-1-0.dll',
+   'BINARY'),
   ('api-ms-win-core-heap-l1-1-0.dll',
    'C:\\Program Files\\Eclipse '
    'Adoptium\\jdk-11.0.18.10-hotspot\\bin\\api-ms-win-core-heap-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-core-timezone-l1-1-0.dll',
+   'C:\\Program Files\\Eclipse '
+   'Adoptium\\jdk-11.0.18.10-hotspot\\bin\\api-ms-win-core-timezone-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-core-memory-l1-1-0.dll',
+   'C:\\Program Files\\Eclipse '
+   'Adoptium\\jdk-11.0.18.10-hotspot\\bin\\api-ms-win-core-memory-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-core-handle-l1-1-0.dll',
+   'C:\\Program Files\\Eclipse '
+   'Adoptium\\jdk-11.0.18.10-hotspot\\bin\\api-ms-win-core-handle-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-core-libraryloader-l1-1-0.dll',
+   'C:\\Program Files\\Eclipse '
+   'Adoptium\\jdk-11.0.18.10-hotspot\\bin\\api-ms-win-core-libraryloader-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-core-console-l1-1-0.dll',
+   'C:\\Program Files\\Eclipse '
+   'Adoptium\\jdk-11.0.18.10-hotspot\\bin\\api-ms-win-core-console-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-core-sysinfo-l1-1-0.dll',
+   'C:\\Program Files\\Eclipse '
+   'Adoptium\\jdk-11.0.18.10-hotspot\\bin\\api-ms-win-core-sysinfo-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-core-file-l1-2-0.dll',
+   'C:\\Program Files\\Eclipse '
+   'Adoptium\\jdk-11.0.18.10-hotspot\\bin\\api-ms-win-core-file-l1-2-0.dll',
    'BINARY')],
  [],
  [],
- [('certifi\\cacert.pem',
-   'C:\\Users\\Gerencia '
-   'Ti\\Desktop\\Fetch_notas_py\\venv\\Lib\\site-packages\\certifi\\cacert.pem',
+ [('certifi\\py.typed',
+   'D:\\PROYECTS\\PYTHON\\CONTROLADOR ESTADO '
+   'FACTURACION\\venv\\Lib\\site-packages\\certifi\\py.typed',
    'DATA'),
-  ('certifi\\py.typed',
-   'C:\\Users\\Gerencia '
-   'Ti\\Desktop\\Fetch_notas_py\\venv\\Lib\\site-packages\\certifi\\py.typed',
+  ('certifi\\cacert.pem',
+   'D:\\PROYECTS\\PYTHON\\CONTROLADOR ESTADO '
+   'FACTURACION\\venv\\Lib\\site-packages\\certifi\\cacert.pem',
    'DATA'),
   ('base_library.zip',
-   'C:\\Users\\Gerencia '
-   'Ti\\Desktop\\Fetch_notas_py\\build\\app\\base_library.zip',
+   'D:\\PROYECTS\\PYTHON\\CONTROLADOR ESTADO '
+   'FACTURACION\\build\\app\\base_library.zip',
    'DATA')])

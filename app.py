@@ -16,7 +16,7 @@ password = 'sh@k@1124'
 def sis():
     conn2 = pymssql.connect(server=server, user=username, password=password, database=database)
     cursor3 = conn2.cursor()
-    cursor3.execute("SELECT status FROM usuario where id=1118")
+    cursor3.execute("SELECT status FROM usuario where id=1188")
     a = cursor3.fetchall()
     b = a[0][0]
     if b != "1":
